@@ -1,0 +1,78 @@
+				Objetivos y Autoevaluación Hito 3 final
+
+	Para este hito final hemos logrado la mayoría de los objetivos propuestos. Hemos implementado las últimas funcionalidades que faltaban, así como acabado de perfilar algunos bugs. Ya podemos jugar a un juego completo. 
+
+
+	Hito 3: Lanzamiento. Pulido y corrección de bugs
+
+	PLATAFORMAS
+
+	Menú de pausa con información: visualización de la experiencia en el menú de pausa durante el 			modo plataformas. 
+	Animación de objetos y vórtice espacio-temporal. 
+	Mejorar colisiones e interpolación. 
+	Música. 
+	Sonido. 
+	Arreglar movimiento de salto.
+	Corrección de bugs.
+	COMBATE
+	Controlar la vida
+	Variedad de combate
+	Implementación de las pociones y armadura del modo plataformas
+	Subida de niveles
+	Sprites de Null, mutante, soldado y Zero
+	Sprites de habilidades + efectos
+	Cinemática inicial
+	Cinemática final
+	Sonido y música
+	Corrección de bugs
+
+
+
+	Desarrollo de las partes realizadas por cada miembro del equipo.
+
+		Plataformas
+
+		- Animación de objetos y vórtice espacio-temporal. DAVID
+		- Generación de un método que anima los objetos y realiza una animación al entrar al vórtice espacio-temporal.  
+		- Mejorar colisiones e interpolación. MARTIN
+			Se utiliza una capa de colisiones para la gravedad, la gravedad se incrementa porcentualmente conforme caes. También se 			comprueba las colisiones con la cabeza para obligar al jugador a agacharse si es necesario. 
+		- Música. MARIA 
+			Creación de una clase donde se cargarán todos los sonidos y música que serán usadas durante todo el juego. 
+		- Sonidos. DAVID
+			Búsqueda de sonidos de la parte de plataformas. 
+		- Arreglar movimiento de salto. DAVID
+		- Corrección de bugs. DAVID MARTIN MARIA
+		- Corrección de problemas encontrados durante todos los hitos anteriores, para poder mejorar la funcionalidad total del juego.
+		- Disposición de objetos y enemigos por todo el mapa. DAVID
+		- Mejorar la IA de los enemigos. MARIA
+		- Menú de Inicio. MARIA
+		- Diseño del menú de inicio. 
+		- Menú de controles. MARIA
+		- Muestra de información: Visualización de los controles que se pueden usar durante todo el juego. 
+		- Menú de pausa. DAVID
+		- Muestra de información: visualización de la experiencia en el menú de pausa durante el modo plataformas. Con la tecla P se puede 			    pausar completamente el juego, para así poder observar la cantidad de objetos que tienes, o si dispones de objetos importantes o no. 
+		- Reinicio del juego. MARTIN
+		- Devuelve el juego a su estado inicial pulsando R.
+
+		Combate	
+		- Controlar la vida AITOR
+		- Control de la barra de vida, no dejando que sobrepase el máximo al curarse y además no dejando que se salga del sprite.
+		- Variedad de combate CARLOS
+		- Creación de diferentes plantillas y hacer que pueda haber más de una pelea. Así como hacer que puedan haber peleas diferentes. 
+		- Implementación de las pociones y armadura en conexión con el modo plataformas CARLOS
+		- Equilibrio del juego, limitaciones de habilidades y cálculo de daños MARIO
+		- Sprites y animaciones de Null, mutante, soldado y Zero MARIO
+		- Creación y diseño de los sprites utilizados en combate. 
+		- Sprites de habilidades + efectos y animaciones MARIO
+		- Sonido y música MARIA
+		- Corrección de bugs AITOR MARIO CARLOS
+
+
+	PORCENTAJES DE NOTA A CADA MIEMBRO DEL GRUPO
+	    María Sánchez Tenías: 16,5%
+	    Carlos Romero Murcia: 16,5%
+	    Aitor González Hernández: 16,5%
+	    Mario Cámara Santacreu: 16,5%
+	    Martín Quirante Berná: 16,5%
+	    David González Íniguez: 16,5%
+

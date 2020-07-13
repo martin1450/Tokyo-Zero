@@ -1,0 +1,5811 @@
+# depslib dependency file v1.0
+1554461276 source:/home/mqb6/Escritorio/zero/main.cpp
+	<SFML/Graphics.hpp>
+	"World.h"
+	"Window.h"
+
+1554288014 source:/home/mqb6/Escritorio/zero/src/Ecomb.cpp
+	"Ecomb.h"
+
+1554288014 /home/mqb6/Escritorio/zero/include/Ecomb.h
+
+1554485456 source:/home/mqb6/Escritorio/zero/src/Eplat.cpp
+	"Eplat.h"
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Window.h"
+
+1554462042 /home/mqb6/Escritorio/zero/include/Eplat.h
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+
+1554287944 source:/home/mqb6/Escritorio/zero/src/Fuente.cpp
+	"Fuente.h"
+
+1554287944 /home/mqb6/Escritorio/zero/include/Fuente.h
+
+1554288230 source:/home/mqb6/Escritorio/zero/src/JugadorC.cpp
+	"JugadorC.h"
+
+1554288230 /home/mqb6/Escritorio/zero/include/JugadorC.h
+
+1554482886 source:/home/mqb6/Escritorio/zero/src/JugadorP.cpp
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Window.h"
+
+1554482902 /home/mqb6/Escritorio/zero/include/JugadorP.h
+	<SFML/Graphics.hpp>
+
+1554287900 source:/home/mqb6/Escritorio/zero/src/Npc.cpp
+	"Npc.h"
+
+1554287900 /home/mqb6/Escritorio/zero/include/Npc.h
+
+1554287918 source:/home/mqb6/Escritorio/zero/src/Objeto.cpp
+	"Objeto.h"
+
+1554287918 /home/mqb6/Escritorio/zero/include/Objeto.h
+
+1554462078 source:/home/mqb6/Escritorio/zero/src/State.cpp
+	"State.h"
+	<iostream>
+	<string>
+	"Eplat.h"
+
+1554461554 /home/mqb6/Escritorio/zero/include/State.h
+	<SFML/Graphics.hpp>
+	"Eplat.h"
+
+1554465102 source:/home/mqb6/Escritorio/zero/src/World.cpp
+	"World.h"
+	"State.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Window.h"
+
+1554485037 /home/mqb6/Escritorio/zero/include/World.h
+	"State.h"
+
+1554305750 source:/media/mqb6/USB DISK/zero/main.cpp
+	<SFML/Graphics.hpp>
+	"World.h"
+
+1554302638 /media/mqb6/USB DISK/zero/include/World.h
+	"State.h"
+
+1554305010 /media/mqb6/USB DISK/zero/include/State.h
+	<SFML/Graphics.hpp>
+	"Eplat.h"
+
+1554304640 /media/mqb6/USB DISK/zero/include/Eplat.h
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+
+1554305510 /media/mqb6/USB DISK/zero/include/JugadorP.h
+	<SFML/Graphics.hpp>
+
+1554288014 source:/media/mqb6/USB DISK/zero/src/Ecomb.cpp
+	"Ecomb.h"
+
+1554288014 /media/mqb6/USB DISK/zero/include/Ecomb.h
+
+1554287944 source:/media/mqb6/USB DISK/zero/src/Fuente.cpp
+	"Fuente.h"
+
+1554287944 /media/mqb6/USB DISK/zero/include/Fuente.h
+
+1554288230 source:/media/mqb6/USB DISK/zero/src/JugadorC.cpp
+	"JugadorC.h"
+
+1554288230 /media/mqb6/USB DISK/zero/include/JugadorC.h
+
+1554305826 source:/media/mqb6/USB DISK/zero/src/JugadorP.cpp
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1554287900 source:/media/mqb6/USB DISK/zero/src/Npc.cpp
+	"Npc.h"
+
+1554287900 /media/mqb6/USB DISK/zero/include/Npc.h
+
+1554287918 source:/media/mqb6/USB DISK/zero/src/Objeto.cpp
+	"Objeto.h"
+
+1554287918 /media/mqb6/USB DISK/zero/include/Objeto.h
+
+1554305772 source:/media/mqb6/USB DISK/zero/src/State.cpp
+	"State.h"
+	<iostream>
+	"Eplat.h"
+
+1554305860 source:/media/mqb6/USB DISK/zero/src/Eplat.cpp
+	"Eplat.h"
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1554305914 source:/media/mqb6/USB DISK/zero/src/World.cpp
+	"World.h"
+	"State.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1554316150 source:/home/ynms1/Escritorio/zero/main.cpp
+	<SFML/Graphics.hpp>
+	"World.h"
+
+1554401388 /home/ynms1/Escritorio/zero/include/World.h
+	"State.h"
+
+1554369724 /home/ynms1/Escritorio/zero/include/State.h
+	<SFML/Graphics.hpp>
+	"Eplat.h"
+
+1554309674 /home/ynms1/Escritorio/zero/include/Eplat.h
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+
+1554400522 /home/ynms1/Escritorio/zero/include/JugadorP.h
+	<SFML/Graphics.hpp>
+
+1554288014 source:/home/ynms1/Escritorio/zero/src/Ecomb.cpp
+	"Ecomb.h"
+
+1554288014 /home/ynms1/Escritorio/zero/include/Ecomb.h
+
+1554311658 source:/home/ynms1/Escritorio/zero/src/Eplat.cpp
+	"Eplat.h"
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+
+1554287944 source:/home/ynms1/Escritorio/zero/src/Fuente.cpp
+	"Fuente.h"
+
+1554287944 /home/ynms1/Escritorio/zero/include/Fuente.h
+
+1554288230 source:/home/ynms1/Escritorio/zero/src/JugadorC.cpp
+	"JugadorC.h"
+
+1554288230 /home/ynms1/Escritorio/zero/include/JugadorC.h
+
+1554485305 /home/mqb6/Escritorio/zero/include/Window.h
+	"World.h"
+	<SFML/Graphics.hpp>
+
+1554485141 source:/home/mqb6/Escritorio/zero/src/Window.cpp
+	"Window.h"
+	<SFML/Graphics.hpp>
+
+1555344932 source:/home/fenix/Escritorio/zero/main.cpp
+	<SFML/Graphics.hpp>
+	"World.h"
+	"Ventana.h"
+	"CargaSprites.h"
+
+1554989298 /home/fenix/Escritorio/zero/include/World.h
+	"State.h"
+
+1554989296 /home/fenix/Escritorio/zero/include/State.h
+	<SFML/Graphics.hpp>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+
+1555347829 /home/fenix/Escritorio/zero/include/Eplat.h
+	"JugadorP.h"
+	"Objeto.h"
+	"Fuente.h"
+	"Npc.h"
+	<iostream>
+	<vector>
+	<SFML/Graphics.hpp>
+	"TextoP.h"
+	"Agujero.h"
+	"Puerta.h"
+
+1555348893 /home/fenix/Escritorio/zero/include/JugadorP.h
+	<SFML/Graphics.hpp>
+
+1554989292 /home/fenix/Escritorio/zero/include/Window.h
+	"World.h"
+	<SFML/Graphics.hpp>
+
+1555351828 source:/home/fenix/Escritorio/zero/src/Ecomb.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	<cstdlib>
+	"Ecomb.h"
+	"CargaSprites.h"
+	"Personaje.h"
+	"AnimaSprites.h"
+	"Ventana.h"
+
+1555340765 /home/fenix/Escritorio/zero/include/Ecomb.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	"Personaje.h"
+	"Soldado.h"
+
+1555351500 source:/home/fenix/Escritorio/zero/src/Eplat.cpp
+	"Eplat.h"
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+	"World.h"
+	"Ventana.h"
+	"Objeto.h"
+	"TextoP.h"
+	"Npc.h"
+	"Puerta.h"
+
+1555348971 source:/home/fenix/Escritorio/zero/src/Fuente.cpp
+	"Fuente.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1555348973 /home/fenix/Escritorio/zero/include/Fuente.h
+	<SFML/Graphics.hpp>
+
+1554453222 source:/home/fenix/Escritorio/zero/src/JugadorC.cpp
+	"JugadorC.h"
+
+1554453230 /home/fenix/Escritorio/zero/include/JugadorC.h
+
+1555349253 source:/home/fenix/Escritorio/zero/src/JugadorP.cpp
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1555349311 source:/home/fenix/Escritorio/zero/src/Npc.cpp
+	"Npc.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1555348648 /home/fenix/Escritorio/zero/include/Npc.h
+	<SFML/Graphics.hpp>
+
+1555349100 source:/home/fenix/Escritorio/zero/src/Objeto.cpp
+	"Objeto.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1555349100 /home/fenix/Escritorio/zero/include/Objeto.h
+	<SFML/Graphics.hpp>
+
+1555349802 source:/home/fenix/Escritorio/zero/src/State.cpp
+	"State.h"
+	<iostream>
+	<string>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+	"Ventana.h"
+
+1554912064 source:/home/fenix/Escritorio/zero/src/Window.cpp
+	"Window.h"
+	<SFML/Graphics.hpp>
+
+1554989306 source:/home/fenix/Escritorio/zero/src/World.cpp
+	"World.h"
+	"State.h"
+	<SFML/Graphics.hpp>
+	<Ventana.h>
+	"Window.h"
+
+1554989294 /home/fenix/Escritorio/zero/include/Colorea.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+
+1554989296 /home/fenix/Escritorio/zero/include/Texto.h
+	"Colorea.h"
+
+1554989304 source:/home/fenix/Escritorio/zero/src/Colorea.cpp
+	"Colorea.h"
+
+1555345403 source:/home/fenix/Escritorio/zero/src/Menu.cpp
+	"Menu.h"
+	"Ventana.h"
+	"World.h"
+	"State.h"
+	"CargaSprites.h"
+	<string>
+
+1555344715 /home/fenix/Escritorio/zero/include/Menu.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Colorea.h"
+	"Texto.h"
+
+1554989306 source:/home/fenix/Escritorio/zero/src/Texto.cpp
+	"Texto.h"
+
+1554989304 source:/home/fenix/Escritorio/zero/src/CargaSprites.cpp
+	"CargaSprites.h"
+
+1554989296 /home/fenix/Escritorio/zero/include/CargaSprites.h
+	<SFML/Graphics.hpp>
+	<map>
+	<assert.h>
+
+1554989306 source:/home/fenix/Escritorio/zero/src/AnimaSprites.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"AnimaSprites.h"
+	"CargaSprites.h"
+
+1554989296 /home/fenix/Escritorio/zero/include/AnimaSprites.h
+	<SFML/Graphics.hpp>
+
+1555338590 /home/fenix/Escritorio/zero/include/Personaje.h
+
+1554989298 /home/fenix/Escritorio/zero/include/Soldado.h
+	"Personaje.h"
+
+1555339890 source:/home/fenix/Escritorio/zero/src/Personaje.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+	"CargaSprites.h"
+	"Ecomb.h"
+	"Colorea.h"
+
+1555330273 source:/home/fenix/Escritorio/zero/src/Soldado.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Soldado.h"
+	"Personaje.h"
+	"CargaSprites.h"
+
+1555348269 /home/fenix/Escritorio/zero/include/Ventana.h
+	"World.h"
+	"LevelFactory.h"
+	<SFML/Graphics.hpp>
+
+1555351294 source:/home/fenix/Escritorio/zero/src/Ventana.cpp
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+
+1554921066 source:/home/martin/Escritorio/carlos/zero/main.cpp
+	<SFML/Graphics.hpp>
+	"World.h"
+	"Ventana.h"
+	"CargaSprites.h"
+
+1554896590 /home/martin/Escritorio/carlos/zero/include/World.h
+	"State.h"
+
+1554919706 /home/martin/Escritorio/carlos/zero/include/State.h
+	<SFML/Graphics.hpp>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+
+1554883756 /home/martin/Escritorio/carlos/zero/include/Eplat.h
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+
+1554883780 /home/martin/Escritorio/carlos/zero/include/JugadorP.h
+	<SFML/Graphics.hpp>
+
+1554891482 /home/martin/Escritorio/carlos/zero/include/Menu.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Colorea.h"
+	"Texto.h"
+
+1554883214 /home/martin/Escritorio/carlos/zero/include/Colorea.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+
+1554883230 /home/martin/Escritorio/carlos/zero/include/Texto.h
+	"Colorea.h"
+
+1554912286 /home/martin/Escritorio/carlos/zero/include/Ecomb.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	"Personaje.h"
+	"Soldado.h"
+
+1554911096 /home/martin/Escritorio/carlos/zero/include/Personaje.h
+
+1554911232 /home/martin/Escritorio/carlos/zero/include/Soldado.h
+	"Personaje.h"
+
+1554916380 /home/martin/Escritorio/carlos/zero/include/Ventana.h
+	"World.h"
+	<SFML/Graphics.hpp>
+
+1554915208 /home/martin/Escritorio/carlos/zero/include/CargaSprites.h
+	<SFML/Graphics.hpp>
+	<map>
+	<assert.h>
+
+1555019694 source:/home/martin/Escritorio/carlos/zero/src/AnimaSprites.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"AnimaSprites.h"
+	"CargaSprites.h"
+
+1554914324 /home/martin/Escritorio/carlos/zero/include/AnimaSprites.h
+	<SFML/Graphics.hpp>
+
+1554915118 source:/home/martin/Escritorio/carlos/zero/src/CargaSprites.cpp
+	"CargaSprites.h"
+
+1554883278 source:/home/martin/Escritorio/carlos/zero/src/Colorea.cpp
+	"Colorea.h"
+
+1555019266 source:/home/martin/Escritorio/carlos/zero/src/Ecomb.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	"Ecomb.h"
+	"CargaSprites.h"
+	"Personaje.h"
+	"AnimaSprites.h"
+	"Ventana.h"
+
+1555021614 source:/home/martin/Escritorio/carlos/zero/src/Eplat.cpp
+	"Eplat.h"
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1554453226 source:/home/martin/Escritorio/carlos/zero/src/Fuente.cpp
+	"Fuente.h"
+
+1554453228 /home/martin/Escritorio/carlos/zero/include/Fuente.h
+
+1554915292 source:/home/martin/Escritorio/carlos/zero/src/JugadorP.cpp
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1554921330 source:/home/martin/Escritorio/carlos/zero/src/Menu.cpp
+	"Menu.h"
+	"Ventana.h"
+	"World.h"
+	"State.h"
+	"CargaSprites.h"
+	<string>
+
+1554453222 source:/home/martin/Escritorio/carlos/zero/src/Npc.cpp
+	"Npc.h"
+
+1554453226 /home/martin/Escritorio/carlos/zero/include/Npc.h
+
+1554453226 source:/home/martin/Escritorio/carlos/zero/src/Objeto.cpp
+	"Objeto.h"
+
+1554453226 /home/martin/Escritorio/carlos/zero/include/Objeto.h
+
+1554914554 source:/home/martin/Escritorio/carlos/zero/src/Personaje.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+	"CargaSprites.h"
+	"Ecomb.h"
+
+1554979330 source:/home/martin/Escritorio/carlos/zero/src/Soldado.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Soldado.h"
+	"Personaje.h"
+	"CargaSprites.h"
+
+1555019402 source:/home/martin/Escritorio/carlos/zero/src/State.cpp
+	"State.h"
+	<iostream>
+	<string>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+
+1554890082 source:/home/martin/Escritorio/carlos/zero/src/Texto.cpp
+	"Texto.h"
+
+1555013104 source:/home/martin/Escritorio/carlos/zero/src/Ventana.cpp
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+
+1554916440 source:/home/martin/Escritorio/carlos/zero/src/World.cpp
+	"World.h"
+	"State.h"
+	<SFML/Graphics.hpp>
+	<Ventana.h>
+	"Window.h"
+
+1554914788 /home/martin/Escritorio/carlos/zero/include/Window.h
+	"World.h"
+	<SFML/Graphics.hpp>
+
+1555261482 source:/home/soso/Descargas/zero/main.cpp
+	<SFML/Graphics.hpp>
+	"World.h"
+	"Ventana.h"
+	"CargaSprites.h"
+
+1554989298 /home/soso/Descargas/zero/include/World.h
+	"State.h"
+
+1554989296 /home/soso/Descargas/zero/include/State.h
+	<SFML/Graphics.hpp>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+
+1554989296 /home/soso/Descargas/zero/include/Eplat.h
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+
+1554989294 /home/soso/Descargas/zero/include/JugadorP.h
+	<SFML/Graphics.hpp>
+
+1554989296 /home/soso/Descargas/zero/include/Menu.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Colorea.h"
+	"Texto.h"
+
+1554989294 /home/soso/Descargas/zero/include/Colorea.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+
+1554989296 /home/soso/Descargas/zero/include/Texto.h
+	"Colorea.h"
+
+1555259687 /home/soso/Descargas/zero/include/Ecomb.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	"Personaje.h"
+	"Soldado.h"
+
+1555260506 /home/soso/Descargas/zero/include/Personaje.h
+
+1554989298 /home/soso/Descargas/zero/include/Soldado.h
+	"Personaje.h"
+
+1554989294 /home/soso/Descargas/zero/include/Ventana.h
+	"World.h"
+	<SFML/Graphics.hpp>
+
+1554989296 /home/soso/Descargas/zero/include/CargaSprites.h
+	<SFML/Graphics.hpp>
+	<map>
+	<assert.h>
+
+1554989306 source:/home/soso/Descargas/zero/src/AnimaSprites.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"AnimaSprites.h"
+	"CargaSprites.h"
+
+1554989296 /home/soso/Descargas/zero/include/AnimaSprites.h
+	<SFML/Graphics.hpp>
+
+1554989304 source:/home/soso/Descargas/zero/src/CargaSprites.cpp
+	"CargaSprites.h"
+
+1554989304 source:/home/soso/Descargas/zero/src/Colorea.cpp
+	"Colorea.h"
+
+1555060216 source:/home/soso/Descargas/zero/src/Eplat.cpp
+	"Eplat.h"
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1554989306 source:/home/soso/Descargas/zero/src/Fuente.cpp
+	"Fuente.h"
+
+1554989294 /home/soso/Descargas/zero/include/Fuente.h
+
+1554989304 source:/home/soso/Descargas/zero/src/JugadorP.cpp
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1555061878 source:/home/soso/Descargas/zero/src/Menu.cpp
+	"Menu.h"
+	"Ventana.h"
+	"World.h"
+	"State.h"
+	"CargaSprites.h"
+	<string>
+
+1554989306 source:/home/soso/Descargas/zero/src/Npc.cpp
+	"Npc.h"
+
+1554989296 /home/soso/Descargas/zero/include/Npc.h
+
+1554989302 source:/home/soso/Descargas/zero/src/Objeto.cpp
+	"Objeto.h"
+
+1554989296 /home/soso/Descargas/zero/include/Objeto.h
+
+1555248056 source:/home/soso/Descargas/zero/src/State.cpp
+	"State.h"
+	<iostream>
+	<string>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+
+1554989306 source:/home/soso/Descargas/zero/src/Texto.cpp
+	"Texto.h"
+
+1555248136 source:/home/soso/Descargas/zero/src/Ventana.cpp
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+
+1554989306 source:/home/soso/Descargas/zero/src/World.cpp
+	"World.h"
+	"State.h"
+	<SFML/Graphics.hpp>
+	<Ventana.h>
+	"Window.h"
+
+1554989292 /home/soso/Descargas/zero/include/Window.h
+	"World.h"
+	<SFML/Graphics.hpp>
+
+1555261448 source:/home/soso/Descargas/zero/src/Ecomb.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	<cstdlib>
+	"Ecomb.h"
+	"CargaSprites.h"
+	"Personaje.h"
+	"AnimaSprites.h"
+	"Ventana.h"
+
+1555260991 source:/home/soso/Descargas/zero/src/Personaje.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+	"CargaSprites.h"
+	"Ecomb.h"
+
+1555261007 source:/home/soso/Descargas/zero/src/Soldado.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Soldado.h"
+	"Personaje.h"
+	"CargaSprites.h"
+
+1555313393 source:/home/azoth/Escritorio/zero/main.cpp
+	<SFML/Graphics.hpp>
+	"World.h"
+	"Ventana.h"
+	"CargaSprites.h"
+
+1554989298 /home/azoth/Escritorio/zero/include/World.h
+	"State.h"
+
+1554989296 /home/azoth/Escritorio/zero/include/State.h
+	<SFML/Graphics.hpp>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+
+1554989296 /home/azoth/Escritorio/zero/include/Eplat.h
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+
+1554989294 /home/azoth/Escritorio/zero/include/JugadorP.h
+	<SFML/Graphics.hpp>
+
+1554989296 /home/azoth/Escritorio/zero/include/Menu.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Colorea.h"
+	"Texto.h"
+
+1554989294 /home/azoth/Escritorio/zero/include/Colorea.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+
+1554989296 /home/azoth/Escritorio/zero/include/Texto.h
+	"Colorea.h"
+
+1555259687 /home/azoth/Escritorio/zero/include/Ecomb.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	"Personaje.h"
+	"Soldado.h"
+
+1555316762 /home/azoth/Escritorio/zero/include/Personaje.h
+
+1554989298 /home/azoth/Escritorio/zero/include/Soldado.h
+	"Personaje.h"
+
+1554989294 /home/azoth/Escritorio/zero/include/Ventana.h
+	"World.h"
+	<SFML/Graphics.hpp>
+
+1554989296 /home/azoth/Escritorio/zero/include/CargaSprites.h
+	<SFML/Graphics.hpp>
+	<map>
+	<assert.h>
+
+1554989306 source:/home/azoth/Escritorio/zero/src/AnimaSprites.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"AnimaSprites.h"
+	"CargaSprites.h"
+
+1554989296 /home/azoth/Escritorio/zero/include/AnimaSprites.h
+	<SFML/Graphics.hpp>
+
+1554989304 source:/home/azoth/Escritorio/zero/src/CargaSprites.cpp
+	"CargaSprites.h"
+
+1554989304 source:/home/azoth/Escritorio/zero/src/Colorea.cpp
+	"Colorea.h"
+
+1555323612 source:/home/azoth/Escritorio/zero/src/Ecomb.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	<cstdlib>
+	"Ecomb.h"
+	"CargaSprites.h"
+	"Personaje.h"
+	"AnimaSprites.h"
+	"Ventana.h"
+
+1555060216 source:/home/azoth/Escritorio/zero/src/Eplat.cpp
+	"Eplat.h"
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1554989306 source:/home/azoth/Escritorio/zero/src/Fuente.cpp
+	"Fuente.h"
+
+1554989294 /home/azoth/Escritorio/zero/include/Fuente.h
+
+1554989304 source:/home/azoth/Escritorio/zero/src/JugadorP.cpp
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1555313719 source:/home/azoth/Escritorio/zero/src/Menu.cpp
+	"Menu.h"
+	"Ventana.h"
+	"World.h"
+	"State.h"
+	"CargaSprites.h"
+	<string>
+
+1554989306 source:/home/azoth/Escritorio/zero/src/Npc.cpp
+	"Npc.h"
+
+1554989296 /home/azoth/Escritorio/zero/include/Npc.h
+
+1554989302 source:/home/azoth/Escritorio/zero/src/Objeto.cpp
+	"Objeto.h"
+
+1554989296 /home/azoth/Escritorio/zero/include/Objeto.h
+
+1555317977 source:/home/azoth/Escritorio/zero/src/Personaje.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+	"CargaSprites.h"
+	"Ecomb.h"
+	"Colorea.h"
+
+1555316270 source:/home/azoth/Escritorio/zero/src/Soldado.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Soldado.h"
+	"Personaje.h"
+	"CargaSprites.h"
+
+1555248056 source:/home/azoth/Escritorio/zero/src/State.cpp
+	"State.h"
+	<iostream>
+	<string>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+
+1554989306 source:/home/azoth/Escritorio/zero/src/Texto.cpp
+	"Texto.h"
+
+1555248136 source:/home/azoth/Escritorio/zero/src/Ventana.cpp
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+
+1554989306 source:/home/azoth/Escritorio/zero/src/World.cpp
+	"World.h"
+	"State.h"
+	<SFML/Graphics.hpp>
+	<Ventana.h>
+	"Window.h"
+
+1554989292 /home/azoth/Escritorio/zero/include/Window.h
+	"World.h"
+	<SFML/Graphics.hpp>
+
+1555328549 source:/home/soso/Documentos/zero/main.cpp
+	<SFML/Graphics.hpp>
+	"World.h"
+	"Ventana.h"
+	"CargaSprites.h"
+
+1554989298 /home/soso/Documentos/zero/include/World.h
+	"State.h"
+
+1554989296 /home/soso/Documentos/zero/include/State.h
+	<SFML/Graphics.hpp>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+
+1554989296 /home/soso/Documentos/zero/include/Eplat.h
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+
+1554989294 /home/soso/Documentos/zero/include/JugadorP.h
+	<SFML/Graphics.hpp>
+
+1554989296 /home/soso/Documentos/zero/include/Menu.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Colorea.h"
+	"Texto.h"
+
+1554989294 /home/soso/Documentos/zero/include/Colorea.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+
+1554989296 /home/soso/Documentos/zero/include/Texto.h
+	"Colorea.h"
+
+1555340765 /home/soso/Documentos/zero/include/Ecomb.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	"Personaje.h"
+	"Soldado.h"
+
+1555338590 /home/soso/Documentos/zero/include/Personaje.h
+
+1554989298 /home/soso/Documentos/zero/include/Soldado.h
+	"Personaje.h"
+
+1555340873 /home/soso/Documentos/zero/include/Ventana.h
+	"World.h"
+	<SFML/Graphics.hpp>
+
+1554989296 /home/soso/Documentos/zero/include/CargaSprites.h
+	<SFML/Graphics.hpp>
+	<map>
+	<assert.h>
+
+1554989306 source:/home/soso/Documentos/zero/src/AnimaSprites.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"AnimaSprites.h"
+	"CargaSprites.h"
+
+1554989296 /home/soso/Documentos/zero/include/AnimaSprites.h
+	<SFML/Graphics.hpp>
+
+1554989304 source:/home/soso/Documentos/zero/src/CargaSprites.cpp
+	"CargaSprites.h"
+
+1554989304 source:/home/soso/Documentos/zero/src/Colorea.cpp
+	"Colorea.h"
+
+1555060216 source:/home/soso/Documentos/zero/src/Eplat.cpp
+	"Eplat.h"
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1554989306 source:/home/soso/Documentos/zero/src/Fuente.cpp
+	"Fuente.h"
+
+1554989294 /home/soso/Documentos/zero/include/Fuente.h
+
+1554989304 source:/home/soso/Documentos/zero/src/JugadorP.cpp
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1555313719 source:/home/soso/Documentos/zero/src/Menu.cpp
+	"Menu.h"
+	"Ventana.h"
+	"World.h"
+	"State.h"
+	"CargaSprites.h"
+	<string>
+
+1554989306 source:/home/soso/Documentos/zero/src/Npc.cpp
+	"Npc.h"
+
+1554989296 /home/soso/Documentos/zero/include/Npc.h
+
+1554989302 source:/home/soso/Documentos/zero/src/Objeto.cpp
+	"Objeto.h"
+
+1554989296 /home/soso/Documentos/zero/include/Objeto.h
+
+1555339890 source:/home/soso/Documentos/zero/src/Personaje.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+	"CargaSprites.h"
+	"Ecomb.h"
+	"Colorea.h"
+
+1555330273 source:/home/soso/Documentos/zero/src/Soldado.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Soldado.h"
+	"Personaje.h"
+	"CargaSprites.h"
+
+1555248056 source:/home/soso/Documentos/zero/src/State.cpp
+	"State.h"
+	<iostream>
+	<string>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+
+1554989306 source:/home/soso/Documentos/zero/src/Texto.cpp
+	"Texto.h"
+
+1555340871 source:/home/soso/Documentos/zero/src/Ventana.cpp
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+
+1554989306 source:/home/soso/Documentos/zero/src/World.cpp
+	"World.h"
+	"State.h"
+	<SFML/Graphics.hpp>
+	<Ventana.h>
+	"Window.h"
+
+1554989292 /home/soso/Documentos/zero/include/Window.h
+	"World.h"
+	<SFML/Graphics.hpp>
+
+1555340710 source:/home/soso/Documentos/zero/src/Ecomb.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	<cstdlib>
+	"Ecomb.h"
+	"CargaSprites.h"
+	"Personaje.h"
+	"AnimaSprites.h"
+	"Ventana.h"
+
+1555347590 source:/home/fenix/Escritorio/zero/src/Agujero.cpp
+	"Agujero.h"
+	<iostream>
+
+1555347588 /home/fenix/Escritorio/zero/include/Agujero.h
+	<SFML/Graphics.hpp>
+
+1555347905 /home/fenix/Escritorio/zero/include/TextoP.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1555347943 /home/fenix/Escritorio/zero/include/Puerta.h
+	<SFML/Graphics.hpp>
+
+1555348086 /home/fenix/Escritorio/zero/include/LevelFactory.h
+	<string>
+	"TileMap.h"
+
+1555348460 /home/fenix/Escritorio/zero/include/TileMap.h
+	<SFML/Graphics.hpp>
+
+1555349288 source:/home/fenix/Escritorio/zero/src/LevelFactory.cpp
+	"LevelFactory.h"
+	<iostream>
+	<cstring>
+	"TileMap.h"
+	"Ventana.h"
+	"tinyxml2.h"
+
+1555348516 /home/fenix/Escritorio/zero/include/tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1555348016 source:/home/fenix/Escritorio/zero/src/Puerta.cpp
+	"Puerta.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1555347904 source:/home/fenix/Escritorio/zero/src/TextoP.cpp
+	"TextoP.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Window.h"
+
+1555349344 source:/home/fenix/Escritorio/zero/src/TileMap.cpp
+	"TileMap.h"
+
+1555348537 source:/home/fenix/Escritorio/zero/src/tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1555353962 source:/home/martin/Escritorio/Proyecto/1/src/Agujero.cpp
+	"Agujero.h"
+	<iostream>
+
+1555354060 /home/martin/Escritorio/Proyecto/1/include/Agujero.h
+	<SFML/Graphics.hpp>
+
+1555353942 source:/home/martin/Escritorio/Proyecto/1/src/AnimaSprites.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"AnimaSprites.h"
+	"CargaSprites.h"
+
+1555354070 /home/martin/Escritorio/Proyecto/1/include/AnimaSprites.h
+	<SFML/Graphics.hpp>
+
+1555354068 /home/martin/Escritorio/Proyecto/1/include/CargaSprites.h
+	<SFML/Graphics.hpp>
+	<map>
+	<assert.h>
+
+1555353954 source:/home/martin/Escritorio/Proyecto/1/src/CargaSprites.cpp
+	"CargaSprites.h"
+
+1555353944 source:/home/martin/Escritorio/Proyecto/1/src/Colorea.cpp
+	"Colorea.h"
+
+1555354066 /home/martin/Escritorio/Proyecto/1/include/Colorea.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+
+1555353948 source:/home/martin/Escritorio/Proyecto/1/src/Ecomb.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	<cstdlib>
+	"Ecomb.h"
+	"CargaSprites.h"
+	"Personaje.h"
+	"AnimaSprites.h"
+	"Ventana.h"
+
+1555354066 /home/martin/Escritorio/Proyecto/1/include/Ecomb.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	"Personaje.h"
+	"Soldado.h"
+
+1555354068 /home/martin/Escritorio/Proyecto/1/include/Personaje.h
+
+1555354054 /home/martin/Escritorio/Proyecto/1/include/Soldado.h
+	"Personaje.h"
+
+1557933791 /home/martin/Escritorio/Proyecto/1/include/Ventana.h
+	"World.h"
+	"LevelFactory.h"
+	<SFML/Graphics.hpp>
+
+1557933978 /home/martin/Escritorio/Proyecto/1/include/World.h
+	"State.h"
+
+1555354056 /home/martin/Escritorio/Proyecto/1/include/State.h
+	<SFML/Graphics.hpp>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+
+1557934673 /home/martin/Escritorio/Proyecto/1/include/Eplat.h
+	"JugadorP.h"
+	"Objeto.h"
+	"Fuente.h"
+	"Npc.h"
+	<iostream>
+	<vector>
+	<SFML/Graphics.hpp>
+	"TextoP.h"
+	"Agujero.h"
+	"Puerta.h"
+
+1555354052 /home/martin/Escritorio/Proyecto/1/include/JugadorP.h
+	<SFML/Graphics.hpp>
+
+1555354062 /home/martin/Escritorio/Proyecto/1/include/Objeto.h
+	<SFML/Graphics.hpp>
+
+1555354074 /home/martin/Escritorio/Proyecto/1/include/Fuente.h
+	<SFML/Graphics.hpp>
+
+1555354062 /home/martin/Escritorio/Proyecto/1/include/Npc.h
+	<SFML/Graphics.hpp>
+
+1555354064 /home/martin/Escritorio/Proyecto/1/include/TextoP.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1555354054 /home/martin/Escritorio/Proyecto/1/include/Puerta.h
+	<SFML/Graphics.hpp>
+
+1555354060 /home/martin/Escritorio/Proyecto/1/include/Menu.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Colorea.h"
+	"Texto.h"
+
+1555354072 /home/martin/Escritorio/Proyecto/1/include/Texto.h
+	"Colorea.h"
+
+1555354056 /home/martin/Escritorio/Proyecto/1/include/LevelFactory.h
+	<string>
+	"TileMap.h"
+
+1555354058 /home/martin/Escritorio/Proyecto/1/include/TileMap.h
+	<SFML/Graphics.hpp>
+
+1557934076 source:/home/martin/Escritorio/Proyecto/1/src/Eplat.cpp
+	"Eplat.h"
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+	"World.h"
+	"Ventana.h"
+	"Objeto.h"
+	"TextoP.h"
+	"Npc.h"
+	"Puerta.h"
+
+1555353944 source:/home/martin/Escritorio/Proyecto/1/src/Fuente.cpp
+	"Fuente.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1557934095 source:/home/martin/Escritorio/Proyecto/1/src/JugadorP.cpp
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1555353950 source:/home/martin/Escritorio/Proyecto/1/src/LevelFactory.cpp
+	"LevelFactory.h"
+	<iostream>
+	<cstring>
+	"TileMap.h"
+	"Ventana.h"
+	"tinyxml2.h"
+
+1555354072 /home/martin/Escritorio/Proyecto/1/include/tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1555353954 source:/home/martin/Escritorio/Proyecto/1/src/Menu.cpp
+	"Menu.h"
+	"Ventana.h"
+	"World.h"
+	"State.h"
+	"CargaSprites.h"
+	<string>
+
+1555353960 source:/home/martin/Escritorio/Proyecto/1/src/Npc.cpp
+	"Npc.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1555353946 source:/home/martin/Escritorio/Proyecto/1/src/Objeto.cpp
+	"Objeto.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1555353958 source:/home/martin/Escritorio/Proyecto/1/src/Personaje.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+	"CargaSprites.h"
+	"Ecomb.h"
+	"Colorea.h"
+
+1555353956 source:/home/martin/Escritorio/Proyecto/1/src/Puerta.cpp
+	"Puerta.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1555353950 source:/home/martin/Escritorio/Proyecto/1/src/Soldado.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Soldado.h"
+	"Personaje.h"
+	"CargaSprites.h"
+
+1557914549 source:/home/martin/Escritorio/Proyecto/1/src/State.cpp
+	"State.h"
+	<iostream>
+	<string>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+	"Ventana.h"
+
+1555353956 source:/home/martin/Escritorio/Proyecto/1/src/Texto.cpp
+	"Texto.h"
+
+1555353946 source:/home/martin/Escritorio/Proyecto/1/src/TextoP.cpp
+	"TextoP.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Window.h"
+
+1555354058 /home/martin/Escritorio/Proyecto/1/include/Window.h
+	"World.h"
+	<SFML/Graphics.hpp>
+
+1555353942 source:/home/martin/Escritorio/Proyecto/1/src/TileMap.cpp
+	"TileMap.h"
+
+1555353952 source:/home/martin/Escritorio/Proyecto/1/src/tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1555353958 source:/home/martin/Escritorio/Proyecto/1/src/Ventana.cpp
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+
+1557913703 source:/home/martin/Escritorio/Proyecto/1/src/World.cpp
+	"World.h"
+	"State.h"
+	<SFML/Graphics.hpp>
+	<Ventana.h>
+	"Window.h"
+
+1555353782 source:/home/martin/Escritorio/Proyecto/1/main.cpp
+	<SFML/Graphics.hpp>
+	"World.h"
+	"Ventana.h"
+	"CargaSprites.h"
+
+1558002981 source:/home/martin/Escritorio/Proyecto/version martin/main.cpp
+	<SFML/Graphics.hpp>
+	"World.h"
+	"Ventana.h"
+	"CargaSprites.h"
+
+1558002691 /home/martin/Escritorio/Proyecto/version martin/include/World.h
+	"State.h"
+
+1555354056 /home/martin/Escritorio/Proyecto/version martin/include/State.h
+	<SFML/Graphics.hpp>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+
+1558004700 /home/martin/Escritorio/Proyecto/version martin/include/Eplat.h
+	"JugadorP.h"
+	"Objeto.h"
+	"Fuente.h"
+	"Npc.h"
+	<iostream>
+	<vector>
+	<SFML/Graphics.hpp>
+	"TextoP.h"
+	"Agujero.h"
+	"Puerta.h"
+
+1555354052 /home/martin/Escritorio/Proyecto/version martin/include/JugadorP.h
+	<SFML/Graphics.hpp>
+
+1555354062 /home/martin/Escritorio/Proyecto/version martin/include/Objeto.h
+	<SFML/Graphics.hpp>
+
+1555354074 /home/martin/Escritorio/Proyecto/version martin/include/Fuente.h
+	<SFML/Graphics.hpp>
+
+1555354062 /home/martin/Escritorio/Proyecto/version martin/include/Npc.h
+	<SFML/Graphics.hpp>
+
+1555354064 /home/martin/Escritorio/Proyecto/version martin/include/TextoP.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1555354060 /home/martin/Escritorio/Proyecto/version martin/include/Agujero.h
+	<SFML/Graphics.hpp>
+
+1555354054 /home/martin/Escritorio/Proyecto/version martin/include/Puerta.h
+	<SFML/Graphics.hpp>
+
+1555354060 /home/martin/Escritorio/Proyecto/version martin/include/Menu.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Colorea.h"
+	"Texto.h"
+
+1555354066 /home/martin/Escritorio/Proyecto/version martin/include/Colorea.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+
+1555354072 /home/martin/Escritorio/Proyecto/version martin/include/Texto.h
+	"Colorea.h"
+
+1555354066 /home/martin/Escritorio/Proyecto/version martin/include/Ecomb.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	"Personaje.h"
+	"Soldado.h"
+
+1555354068 /home/martin/Escritorio/Proyecto/version martin/include/Personaje.h
+
+1555354054 /home/martin/Escritorio/Proyecto/version martin/include/Soldado.h
+	"Personaje.h"
+
+1557933791 /home/martin/Escritorio/Proyecto/version martin/include/Ventana.h
+	"World.h"
+	"LevelFactory.h"
+	<SFML/Graphics.hpp>
+
+1555354056 /home/martin/Escritorio/Proyecto/version martin/include/LevelFactory.h
+	<string>
+	"TileMap.h"
+
+1555354058 /home/martin/Escritorio/Proyecto/version martin/include/TileMap.h
+	<SFML/Graphics.hpp>
+
+1555354068 /home/martin/Escritorio/Proyecto/version martin/include/CargaSprites.h
+	<SFML/Graphics.hpp>
+	<map>
+	<assert.h>
+
+1555353962 source:/home/martin/Escritorio/Proyecto/version martin/src/Agujero.cpp
+	"Agujero.h"
+	<iostream>
+
+1555353942 source:/home/martin/Escritorio/Proyecto/version martin/src/AnimaSprites.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"AnimaSprites.h"
+	"CargaSprites.h"
+
+1555354070 /home/martin/Escritorio/Proyecto/version martin/include/AnimaSprites.h
+	<SFML/Graphics.hpp>
+
+1555353954 source:/home/martin/Escritorio/Proyecto/version martin/src/CargaSprites.cpp
+	"CargaSprites.h"
+
+1555353944 source:/home/martin/Escritorio/Proyecto/version martin/src/Colorea.cpp
+	"Colorea.h"
+
+1555353948 source:/home/martin/Escritorio/Proyecto/version martin/src/Ecomb.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	<cstdlib>
+	"Ecomb.h"
+	"CargaSprites.h"
+	"Personaje.h"
+	"AnimaSprites.h"
+	"Ventana.h"
+
+1558003030 source:/home/martin/Escritorio/Proyecto/version martin/src/Eplat.cpp
+	"Eplat.h"
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+	"World.h"
+	"Ventana.h"
+	"Objeto.h"
+	"TextoP.h"
+	"Npc.h"
+	"Puerta.h"
+
+1555353944 source:/home/martin/Escritorio/Proyecto/version martin/src/Fuente.cpp
+	"Fuente.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558003064 source:/home/martin/Escritorio/Proyecto/version martin/src/JugadorP.cpp
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1555353950 source:/home/martin/Escritorio/Proyecto/version martin/src/LevelFactory.cpp
+	"LevelFactory.h"
+	<iostream>
+	<cstring>
+	"TileMap.h"
+	"Ventana.h"
+	"tinyxml2.h"
+
+1555354072 /home/martin/Escritorio/Proyecto/version martin/include/tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1555353954 source:/home/martin/Escritorio/Proyecto/version martin/src/Menu.cpp
+	"Menu.h"
+	"Ventana.h"
+	"World.h"
+	"State.h"
+	"CargaSprites.h"
+	<string>
+
+1555353960 source:/home/martin/Escritorio/Proyecto/version martin/src/Npc.cpp
+	"Npc.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1555353946 source:/home/martin/Escritorio/Proyecto/version martin/src/Objeto.cpp
+	"Objeto.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1555353958 source:/home/martin/Escritorio/Proyecto/version martin/src/Personaje.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+	"CargaSprites.h"
+	"Ecomb.h"
+	"Colorea.h"
+
+1555353956 source:/home/martin/Escritorio/Proyecto/version martin/src/Puerta.cpp
+	"Puerta.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1555353950 source:/home/martin/Escritorio/Proyecto/version martin/src/Soldado.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Soldado.h"
+	"Personaje.h"
+	"CargaSprites.h"
+
+1558003013 source:/home/martin/Escritorio/Proyecto/version martin/src/State.cpp
+	"State.h"
+	<iostream>
+	<string>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+	"Ventana.h"
+
+1555353956 source:/home/martin/Escritorio/Proyecto/version martin/src/Texto.cpp
+	"Texto.h"
+
+1555353946 source:/home/martin/Escritorio/Proyecto/version martin/src/TextoP.cpp
+	"TextoP.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Window.h"
+
+1555354058 /home/martin/Escritorio/Proyecto/version martin/include/Window.h
+	"World.h"
+	<SFML/Graphics.hpp>
+
+1555353942 source:/home/martin/Escritorio/Proyecto/version martin/src/TileMap.cpp
+	"TileMap.h"
+
+1555353952 source:/home/martin/Escritorio/Proyecto/version martin/src/tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1557998301 source:/home/martin/Escritorio/Proyecto/version martin/src/Ventana.cpp
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+
+1558003188 source:/home/martin/Escritorio/Proyecto/version martin/src/World.cpp
+	"World.h"
+	"State.h"
+	<SFML/Graphics.hpp>
+	<Ventana.h>
+	"Window.h"
+
+1557973560 source:/home/david/Documentos/FV/Hito 3/version 1/main.cpp
+	<SFML/Graphics.hpp>
+	"World.h"
+	"Ventana.h"
+	"CargaSprites.h"
+
+1558054052 /home/david/Documentos/FV/Hito 3/version 1/include/World.h
+	"State.h"
+
+1557973570 /home/david/Documentos/FV/Hito 3/version 1/include/State.h
+	<SFML/Graphics.hpp>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+
+1557973570 /home/david/Documentos/FV/Hito 3/version 1/include/Eplat.h
+	"JugadorP.h"
+	"Objeto.h"
+	"Fuente.h"
+	"Npc.h"
+	<iostream>
+	<vector>
+	<SFML/Graphics.hpp>
+	"TextoP.h"
+	"Agujero.h"
+	"Puerta.h"
+
+1558061472 /home/david/Documentos/FV/Hito 3/version 1/include/JugadorP.h
+	<SFML/Graphics.hpp>
+
+1558057825 /home/david/Documentos/FV/Hito 3/version 1/include/Objeto.h
+	<SFML/Graphics.hpp>
+
+1557973566 /home/david/Documentos/FV/Hito 3/version 1/include/Fuente.h
+	<SFML/Graphics.hpp>
+
+1557973568 /home/david/Documentos/FV/Hito 3/version 1/include/Npc.h
+	<SFML/Graphics.hpp>
+
+1558049723 /home/david/Documentos/FV/Hito 3/version 1/include/TextoP.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558058403 /home/david/Documentos/FV/Hito 3/version 1/include/Agujero.h
+	<SFML/Graphics.hpp>
+
+1557973564 /home/david/Documentos/FV/Hito 3/version 1/include/Puerta.h
+	<SFML/Graphics.hpp>
+
+1557973566 /home/david/Documentos/FV/Hito 3/version 1/include/Menu.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Colorea.h"
+	"Texto.h"
+
+1557973562 /home/david/Documentos/FV/Hito 3/version 1/include/Colorea.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+
+1557973568 /home/david/Documentos/FV/Hito 3/version 1/include/Texto.h
+	"Colorea.h"
+
+1557973564 /home/david/Documentos/FV/Hito 3/version 1/include/Ecomb.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	"Personaje.h"
+	"Soldado.h"
+
+1557973564 /home/david/Documentos/FV/Hito 3/version 1/include/Personaje.h
+
+1557973570 /home/david/Documentos/FV/Hito 3/version 1/include/Soldado.h
+	"Personaje.h"
+
+1558038025 /home/david/Documentos/FV/Hito 3/version 1/include/Ventana.h
+	"World.h"
+	"LevelFactory.h"
+	<SFML/Graphics.hpp>
+
+1557973564 /home/david/Documentos/FV/Hito 3/version 1/include/LevelFactory.h
+	<string>
+	"TileMap.h"
+
+1557973566 /home/david/Documentos/FV/Hito 3/version 1/include/TileMap.h
+	<SFML/Graphics.hpp>
+
+1557973564 /home/david/Documentos/FV/Hito 3/version 1/include/CargaSprites.h
+	<SFML/Graphics.hpp>
+	<map>
+	<assert.h>
+
+1558058975 source:/home/david/Documentos/FV/Hito 3/version 1/src/Agujero.cpp
+	"Agujero.h"
+	"Ventana.h"
+	<iostream>
+
+1557973586 source:/home/david/Documentos/FV/Hito 3/version 1/src/AnimaSprites.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"AnimaSprites.h"
+	"CargaSprites.h"
+
+1557973568 /home/david/Documentos/FV/Hito 3/version 1/include/AnimaSprites.h
+	<SFML/Graphics.hpp>
+
+1557973584 source:/home/david/Documentos/FV/Hito 3/version 1/src/CargaSprites.cpp
+	"CargaSprites.h"
+
+1557973586 source:/home/david/Documentos/FV/Hito 3/version 1/src/Colorea.cpp
+	"Colorea.h"
+
+1557973590 source:/home/david/Documentos/FV/Hito 3/version 1/src/Ecomb.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	<cstdlib>
+	"Ecomb.h"
+	"CargaSprites.h"
+	"Personaje.h"
+	"AnimaSprites.h"
+	"Ventana.h"
+
+1558060281 source:/home/david/Documentos/FV/Hito 3/version 1/src/Eplat.cpp
+	"Eplat.h"
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+	"World.h"
+	"Ventana.h"
+	"Objeto.h"
+	"TextoP.h"
+	"Npc.h"
+	"Puerta.h"
+
+1557973588 source:/home/david/Documentos/FV/Hito 3/version 1/src/Fuente.cpp
+	"Fuente.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558061373 source:/home/david/Documentos/FV/Hito 3/version 1/src/JugadorP.cpp
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1557973590 source:/home/david/Documentos/FV/Hito 3/version 1/src/LevelFactory.cpp
+	"LevelFactory.h"
+	<iostream>
+	<cstring>
+	"TileMap.h"
+	"Ventana.h"
+	"tinyxml2.h"
+
+1557973562 /home/david/Documentos/FV/Hito 3/version 1/include/tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1557973586 source:/home/david/Documentos/FV/Hito 3/version 1/src/Menu.cpp
+	"Menu.h"
+	"Ventana.h"
+	"World.h"
+	"State.h"
+	"CargaSprites.h"
+	<string>
+
+1557973590 source:/home/david/Documentos/FV/Hito 3/version 1/src/Npc.cpp
+	"Npc.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1558058365 source:/home/david/Documentos/FV/Hito 3/version 1/src/Objeto.cpp
+	"Objeto.h"
+	<SFML/Graphics.hpp>
+	"Ventana.h"
+	<iostream>
+
+1557973586 source:/home/david/Documentos/FV/Hito 3/version 1/src/Personaje.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+	"CargaSprites.h"
+	"Ecomb.h"
+	"Colorea.h"
+
+1557973588 source:/home/david/Documentos/FV/Hito 3/version 1/src/Puerta.cpp
+	"Puerta.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1557973588 source:/home/david/Documentos/FV/Hito 3/version 1/src/Soldado.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Soldado.h"
+	"Personaje.h"
+	"CargaSprites.h"
+
+1558061628 source:/home/david/Documentos/FV/Hito 3/version 1/src/State.cpp
+	"State.h"
+	<iostream>
+	<string>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+	"Ventana.h"
+
+1557973588 source:/home/david/Documentos/FV/Hito 3/version 1/src/Texto.cpp
+	"Texto.h"
+
+1558052869 source:/home/david/Documentos/FV/Hito 3/version 1/src/TextoP.cpp
+	"TextoP.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Window.h"
+
+1557973560 /home/david/Documentos/FV/Hito 3/version 1/include/Window.h
+	"World.h"
+	<SFML/Graphics.hpp>
+
+1557973588 source:/home/david/Documentos/FV/Hito 3/version 1/src/TileMap.cpp
+	"TileMap.h"
+
+1557973586 source:/home/david/Documentos/FV/Hito 3/version 1/src/tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1557973586 source:/home/david/Documentos/FV/Hito 3/version 1/src/Ventana.cpp
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+
+1558054860 source:/home/david/Documentos/FV/Hito 3/version 1/src/World.cpp
+	"World.h"
+	"State.h"
+	<SFML/Graphics.hpp>
+	<Ventana.h>
+	"Window.h"
+	"TextoP.h"
+
+1557973560 source:/home/david/Documentos/FV/Hito 3/version David/main.cpp
+	<SFML/Graphics.hpp>
+	"World.h"
+	"Ventana.h"
+	"CargaSprites.h"
+
+1558054052 /home/david/Documentos/FV/Hito 3/version David/include/World.h
+	"State.h"
+
+1557973570 /home/david/Documentos/FV/Hito 3/version David/include/State.h
+	<SFML/Graphics.hpp>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+
+1557973570 /home/david/Documentos/FV/Hito 3/version David/include/Eplat.h
+	"JugadorP.h"
+	"Objeto.h"
+	"Fuente.h"
+	"Npc.h"
+	<iostream>
+	<vector>
+	<SFML/Graphics.hpp>
+	"TextoP.h"
+	"Agujero.h"
+	"Puerta.h"
+
+1558061472 /home/david/Documentos/FV/Hito 3/version David/include/JugadorP.h
+	<SFML/Graphics.hpp>
+
+1558057825 /home/david/Documentos/FV/Hito 3/version David/include/Objeto.h
+	<SFML/Graphics.hpp>
+
+1557973566 /home/david/Documentos/FV/Hito 3/version David/include/Fuente.h
+	<SFML/Graphics.hpp>
+
+1557973568 /home/david/Documentos/FV/Hito 3/version David/include/Npc.h
+	<SFML/Graphics.hpp>
+
+1558049723 /home/david/Documentos/FV/Hito 3/version David/include/TextoP.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558058403 /home/david/Documentos/FV/Hito 3/version David/include/Agujero.h
+	<SFML/Graphics.hpp>
+
+1557973564 /home/david/Documentos/FV/Hito 3/version David/include/Puerta.h
+	<SFML/Graphics.hpp>
+
+1557973566 /home/david/Documentos/FV/Hito 3/version David/include/Menu.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Colorea.h"
+	"Texto.h"
+
+1557973562 /home/david/Documentos/FV/Hito 3/version David/include/Colorea.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+
+1557973568 /home/david/Documentos/FV/Hito 3/version David/include/Texto.h
+	"Colorea.h"
+
+1557973564 /home/david/Documentos/FV/Hito 3/version David/include/Ecomb.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	"Personaje.h"
+	"Soldado.h"
+
+1557973564 /home/david/Documentos/FV/Hito 3/version David/include/Personaje.h
+
+1557973570 /home/david/Documentos/FV/Hito 3/version David/include/Soldado.h
+	"Personaje.h"
+
+1558038025 /home/david/Documentos/FV/Hito 3/version David/include/Ventana.h
+	"World.h"
+	"LevelFactory.h"
+	<SFML/Graphics.hpp>
+
+1557973564 /home/david/Documentos/FV/Hito 3/version David/include/LevelFactory.h
+	<string>
+	"TileMap.h"
+
+1557973566 /home/david/Documentos/FV/Hito 3/version David/include/TileMap.h
+	<SFML/Graphics.hpp>
+
+1557973564 /home/david/Documentos/FV/Hito 3/version David/include/CargaSprites.h
+	<SFML/Graphics.hpp>
+	<map>
+	<assert.h>
+
+1558058975 source:/home/david/Documentos/FV/Hito 3/version David/src/Agujero.cpp
+	"Agujero.h"
+	"Ventana.h"
+	<iostream>
+
+1557973586 source:/home/david/Documentos/FV/Hito 3/version David/src/AnimaSprites.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"AnimaSprites.h"
+	"CargaSprites.h"
+
+1557973568 /home/david/Documentos/FV/Hito 3/version David/include/AnimaSprites.h
+	<SFML/Graphics.hpp>
+
+1557973584 source:/home/david/Documentos/FV/Hito 3/version David/src/CargaSprites.cpp
+	"CargaSprites.h"
+
+1557973586 source:/home/david/Documentos/FV/Hito 3/version David/src/Colorea.cpp
+	"Colorea.h"
+
+1557973590 source:/home/david/Documentos/FV/Hito 3/version David/src/Ecomb.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	<cstdlib>
+	"Ecomb.h"
+	"CargaSprites.h"
+	"Personaje.h"
+	"AnimaSprites.h"
+	"Ventana.h"
+
+1558060281 source:/home/david/Documentos/FV/Hito 3/version David/src/Eplat.cpp
+	"Eplat.h"
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+	"World.h"
+	"Ventana.h"
+	"Objeto.h"
+	"TextoP.h"
+	"Npc.h"
+	"Puerta.h"
+
+1557973588 source:/home/david/Documentos/FV/Hito 3/version David/src/Fuente.cpp
+	"Fuente.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558061373 source:/home/david/Documentos/FV/Hito 3/version David/src/JugadorP.cpp
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1557973590 source:/home/david/Documentos/FV/Hito 3/version David/src/LevelFactory.cpp
+	"LevelFactory.h"
+	<iostream>
+	<cstring>
+	"TileMap.h"
+	"Ventana.h"
+	"tinyxml2.h"
+
+1557973562 /home/david/Documentos/FV/Hito 3/version David/include/tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1557973586 source:/home/david/Documentos/FV/Hito 3/version David/src/Menu.cpp
+	"Menu.h"
+	"Ventana.h"
+	"World.h"
+	"State.h"
+	"CargaSprites.h"
+	<string>
+
+1557973590 source:/home/david/Documentos/FV/Hito 3/version David/src/Npc.cpp
+	"Npc.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1558058365 source:/home/david/Documentos/FV/Hito 3/version David/src/Objeto.cpp
+	"Objeto.h"
+	<SFML/Graphics.hpp>
+	"Ventana.h"
+	<iostream>
+
+1557973586 source:/home/david/Documentos/FV/Hito 3/version David/src/Personaje.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+	"CargaSprites.h"
+	"Ecomb.h"
+	"Colorea.h"
+
+1557973588 source:/home/david/Documentos/FV/Hito 3/version David/src/Puerta.cpp
+	"Puerta.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1557973588 source:/home/david/Documentos/FV/Hito 3/version David/src/Soldado.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Soldado.h"
+	"Personaje.h"
+	"CargaSprites.h"
+
+1558061664 source:/home/david/Documentos/FV/Hito 3/version David/src/State.cpp
+	"State.h"
+	<iostream>
+	<string>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+	"Ventana.h"
+
+1557973588 source:/home/david/Documentos/FV/Hito 3/version David/src/Texto.cpp
+	"Texto.h"
+
+1558052869 source:/home/david/Documentos/FV/Hito 3/version David/src/TextoP.cpp
+	"TextoP.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Window.h"
+
+1557973560 /home/david/Documentos/FV/Hito 3/version David/include/Window.h
+	"World.h"
+	<SFML/Graphics.hpp>
+
+1557973588 source:/home/david/Documentos/FV/Hito 3/version David/src/TileMap.cpp
+	"TileMap.h"
+
+1557973586 source:/home/david/Documentos/FV/Hito 3/version David/src/tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1557973586 source:/home/david/Documentos/FV/Hito 3/version David/src/Ventana.cpp
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+
+1558054860 source:/home/david/Documentos/FV/Hito 3/version David/src/World.cpp
+	"World.h"
+	"State.h"
+	<SFML/Graphics.hpp>
+	<Ventana.h>
+	"Window.h"
+	"TextoP.h"
+
+1558029448 source:/home/mer/Descargas/version david/version David/main.cpp
+	<SFML/Graphics.hpp>
+	"World.h"
+	"Ventana.h"
+	"CargaSprites.h"
+
+1558029476 /home/mer/Descargas/version david/version David/include/World.h
+	"State.h"
+
+1558029472 /home/mer/Descargas/version david/version David/include/State.h
+	<SFML/Graphics.hpp>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+
+1558090462 /home/mer/Descargas/version david/version David/include/Eplat.h
+	"JugadorP.h"
+	"Objeto.h"
+	"Fuente.h"
+	"Npc.h"
+	"LevelFactory.h"
+	<iostream>
+	<vector>
+	<SFML/Graphics.hpp>
+	"TextoP.h"
+	"Agujero.h"
+	"Puerta.h"
+
+1558029470 /home/mer/Descargas/version david/version David/include/JugadorP.h
+	<SFML/Graphics.hpp>
+
+1558029474 /home/mer/Descargas/version david/version David/include/Objeto.h
+	<SFML/Graphics.hpp>
+
+1558029476 /home/mer/Descargas/version david/version David/include/Fuente.h
+	<SFML/Graphics.hpp>
+
+1558029472 /home/mer/Descargas/version david/version David/include/Npc.h
+	<SFML/Graphics.hpp>
+
+1558029474 /home/mer/Descargas/version david/version David/include/TextoP.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558029472 /home/mer/Descargas/version david/version David/include/Agujero.h
+	<SFML/Graphics.hpp>
+
+1558029470 /home/mer/Descargas/version david/version David/include/Puerta.h
+	<SFML/Graphics.hpp>
+
+1558090119 /home/mer/Descargas/version david/version David/include/Menu.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Colorea.h"
+	"Texto.h"
+	"Eplat.h"
+
+1558029472 /home/mer/Descargas/version david/version David/include/Colorea.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+
+1558029476 /home/mer/Descargas/version david/version David/include/Texto.h
+	"Colorea.h"
+
+1558090075 /home/mer/Descargas/version david/version David/include/Ecomb.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	"Eplat.h"
+	"Personaje.h"
+	"Soldado.h"
+
+1558029474 /home/mer/Descargas/version david/version David/include/Personaje.h
+
+1558029470 /home/mer/Descargas/version david/version David/include/Soldado.h
+	"Personaje.h"
+
+1558089606 /home/mer/Descargas/version david/version David/include/Ventana.h
+	"World.h"
+	"Sonidos.h"
+	"LevelFactory.h"
+	<SFML/Graphics.hpp>
+
+1558090444 /home/mer/Descargas/version david/version David/include/LevelFactory.h
+	<string>
+	"TileMap.h"
+
+1558029472 /home/mer/Descargas/version david/version David/include/TileMap.h
+	<SFML/Graphics.hpp>
+
+1558029474 /home/mer/Descargas/version david/version David/include/CargaSprites.h
+	<SFML/Graphics.hpp>
+	<map>
+	<assert.h>
+
+1558029470 source:/home/mer/Descargas/version david/version David/src/Agujero.cpp
+	"Agujero.h"
+	"Ventana.h"
+	<iostream>
+
+1558029464 source:/home/mer/Descargas/version david/version David/src/AnimaSprites.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"AnimaSprites.h"
+	"CargaSprites.h"
+
+1558029474 /home/mer/Descargas/version david/version David/include/AnimaSprites.h
+	<SFML/Graphics.hpp>
+
+1558029468 source:/home/mer/Descargas/version david/version David/src/CargaSprites.cpp
+	"CargaSprites.h"
+
+1558029466 source:/home/mer/Descargas/version david/version David/src/Colorea.cpp
+	"Colorea.h"
+
+1558090035 source:/home/mer/Descargas/version david/version David/src/Ecomb.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	<cstdlib>
+	"Ecomb.h"
+	"CargaSprites.h"
+	"Personaje.h"
+	"AnimaSprites.h"
+	"Ventana.h"
+
+1558094274 source:/home/mer/Descargas/version david/version David/src/Eplat.cpp
+	"Eplat.h"
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+	"World.h"
+	"Ventana.h"
+	"Objeto.h"
+	"TextoP.h"
+	"Npc.h"
+	"Puerta.h"
+
+1558029464 source:/home/mer/Descargas/version david/version David/src/Fuente.cpp
+	"Fuente.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558029466 source:/home/mer/Descargas/version david/version David/src/JugadorP.cpp
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1558093462 source:/home/mer/Descargas/version david/version David/src/LevelFactory.cpp
+	"LevelFactory.h"
+	<iostream>
+	<cstring>
+	"TileMap.h"
+	"Ventana.h"
+	"tinyxml2.h"
+
+1558029476 /home/mer/Descargas/version david/version David/include/tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1558090145 source:/home/mer/Descargas/version david/version David/src/Menu.cpp
+	"Menu.h"
+	"Ventana.h"
+	"World.h"
+	"State.h"
+	"CargaSprites.h"
+	<string>
+
+1558029470 source:/home/mer/Descargas/version david/version David/src/Npc.cpp
+	"Npc.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1558029466 source:/home/mer/Descargas/version david/version David/src/Objeto.cpp
+	"Objeto.h"
+	<SFML/Graphics.hpp>
+	"Ventana.h"
+	<iostream>
+
+1558029470 source:/home/mer/Descargas/version david/version David/src/Personaje.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+	"CargaSprites.h"
+	"Ecomb.h"
+	"Colorea.h"
+
+1558029468 source:/home/mer/Descargas/version david/version David/src/Puerta.cpp
+	"Puerta.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558029468 source:/home/mer/Descargas/version david/version David/src/Soldado.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Soldado.h"
+	"Personaje.h"
+	"CargaSprites.h"
+
+1558029470 source:/home/mer/Descargas/version david/version David/src/State.cpp
+	"State.h"
+	<iostream>
+	<string>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+	"Ventana.h"
+
+1558029470 source:/home/mer/Descargas/version david/version David/src/Texto.cpp
+	"Texto.h"
+
+1558029466 source:/home/mer/Descargas/version david/version David/src/TextoP.cpp
+	"TextoP.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Window.h"
+
+1558029472 /home/mer/Descargas/version david/version David/include/Window.h
+	"World.h"
+	<SFML/Graphics.hpp>
+
+1558029464 source:/home/mer/Descargas/version david/version David/src/TileMap.cpp
+	"TileMap.h"
+
+1558029466 source:/home/mer/Descargas/version david/version David/src/tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1558089632 source:/home/mer/Descargas/version david/version David/src/Ventana.cpp
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+
+1558029468 source:/home/mer/Descargas/version david/version David/src/World.cpp
+	"World.h"
+	"State.h"
+	<SFML/Graphics.hpp>
+	<Ventana.h>
+	"Window.h"
+	"TextoP.h"
+
+1558089580 /home/mer/Descargas/version david/version David/include/Sonidos.h
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558089575 source:/home/mer/Descargas/version david/version David/src/Sonidos.cpp
+	"Sonidos.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558029448 source:/home/martin/Escritorio/version david/version David/main.cpp
+	<SFML/Graphics.hpp>
+	"World.h"
+	"Ventana.h"
+	"CargaSprites.h"
+
+1558029476 /home/martin/Escritorio/version david/version David/include/World.h
+	"State.h"
+
+1558029472 /home/martin/Escritorio/version david/version David/include/State.h
+	<SFML/Graphics.hpp>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+
+1558102053 /home/martin/Escritorio/version david/version David/include/Eplat.h
+	"JugadorP.h"
+	"Objeto.h"
+	"Fuente.h"
+	"Npc.h"
+	"LevelFactory.h"
+	<iostream>
+	<vector>
+	<SFML/Graphics.hpp>
+	"TextoP.h"
+	"Agujero.h"
+	"Puerta.h"
+
+1558029470 /home/martin/Escritorio/version david/version David/include/JugadorP.h
+	<SFML/Graphics.hpp>
+
+1558029474 /home/martin/Escritorio/version david/version David/include/Objeto.h
+	<SFML/Graphics.hpp>
+
+1558029476 /home/martin/Escritorio/version david/version David/include/Fuente.h
+	<SFML/Graphics.hpp>
+
+1558029472 /home/martin/Escritorio/version david/version David/include/Npc.h
+	<SFML/Graphics.hpp>
+
+1558090444 /home/martin/Escritorio/version david/version David/include/LevelFactory.h
+	<string>
+	"TileMap.h"
+
+1558029472 /home/martin/Escritorio/version david/version David/include/TileMap.h
+	<SFML/Graphics.hpp>
+
+1558029474 /home/martin/Escritorio/version david/version David/include/TextoP.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558029472 /home/martin/Escritorio/version david/version David/include/Agujero.h
+	<SFML/Graphics.hpp>
+
+1558029470 /home/martin/Escritorio/version david/version David/include/Puerta.h
+	<SFML/Graphics.hpp>
+
+1558090120 /home/martin/Escritorio/version david/version David/include/Menu.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Colorea.h"
+	"Texto.h"
+	"Eplat.h"
+
+1558029472 /home/martin/Escritorio/version david/version David/include/Colorea.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+
+1558029476 /home/martin/Escritorio/version david/version David/include/Texto.h
+	"Colorea.h"
+
+1558090076 /home/martin/Escritorio/version david/version David/include/Ecomb.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	"Eplat.h"
+	"Personaje.h"
+	"Soldado.h"
+
+1558029474 /home/martin/Escritorio/version david/version David/include/Personaje.h
+
+1558029470 /home/martin/Escritorio/version david/version David/include/Soldado.h
+	"Personaje.h"
+
+1558089606 /home/martin/Escritorio/version david/version David/include/Ventana.h
+	"World.h"
+	"Sonidos.h"
+	"LevelFactory.h"
+	<SFML/Graphics.hpp>
+
+1558089580 /home/martin/Escritorio/version david/version David/include/Sonidos.h
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558029474 /home/martin/Escritorio/version david/version David/include/CargaSprites.h
+	<SFML/Graphics.hpp>
+	<map>
+	<assert.h>
+
+1558029470 source:/home/martin/Escritorio/version david/version David/src/Agujero.cpp
+	"Agujero.h"
+	"Ventana.h"
+	<iostream>
+
+1558029464 source:/home/martin/Escritorio/version david/version David/src/AnimaSprites.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"AnimaSprites.h"
+	"CargaSprites.h"
+
+1558029474 /home/martin/Escritorio/version david/version David/include/AnimaSprites.h
+	<SFML/Graphics.hpp>
+
+1558029468 source:/home/martin/Escritorio/version david/version David/src/CargaSprites.cpp
+	"CargaSprites.h"
+
+1558029466 source:/home/martin/Escritorio/version david/version David/src/Colorea.cpp
+	"Colorea.h"
+
+1558090036 source:/home/martin/Escritorio/version david/version David/src/Ecomb.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	<cstdlib>
+	"Ecomb.h"
+	"CargaSprites.h"
+	"Personaje.h"
+	"AnimaSprites.h"
+	"Ventana.h"
+
+1558102109 source:/home/martin/Escritorio/version david/version David/src/Eplat.cpp
+	"Eplat.h"
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+	"World.h"
+	"Ventana.h"
+	"Objeto.h"
+	"TextoP.h"
+	"Npc.h"
+	"Puerta.h"
+
+1558029464 source:/home/martin/Escritorio/version david/version David/src/Fuente.cpp
+	"Fuente.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558029466 source:/home/martin/Escritorio/version david/version David/src/JugadorP.cpp
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1558093462 source:/home/martin/Escritorio/version david/version David/src/LevelFactory.cpp
+	"LevelFactory.h"
+	<iostream>
+	<cstring>
+	"TileMap.h"
+	"Ventana.h"
+	"tinyxml2.h"
+
+1558029476 /home/martin/Escritorio/version david/version David/include/tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1558090146 source:/home/martin/Escritorio/version david/version David/src/Menu.cpp
+	"Menu.h"
+	"Ventana.h"
+	"World.h"
+	"State.h"
+	"CargaSprites.h"
+	<string>
+
+1558029470 source:/home/martin/Escritorio/version david/version David/src/Npc.cpp
+	"Npc.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1558029466 source:/home/martin/Escritorio/version david/version David/src/Objeto.cpp
+	"Objeto.h"
+	<SFML/Graphics.hpp>
+	"Ventana.h"
+	<iostream>
+
+1558029470 source:/home/martin/Escritorio/version david/version David/src/Personaje.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+	"CargaSprites.h"
+	"Ecomb.h"
+	"Colorea.h"
+
+1558029468 source:/home/martin/Escritorio/version david/version David/src/Puerta.cpp
+	"Puerta.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558029468 source:/home/martin/Escritorio/version david/version David/src/Soldado.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Soldado.h"
+	"Personaje.h"
+	"CargaSprites.h"
+
+1558089576 source:/home/martin/Escritorio/version david/version David/src/Sonidos.cpp
+	"Sonidos.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558100551 source:/home/martin/Escritorio/version david/version David/src/State.cpp
+	"State.h"
+	<iostream>
+	<string>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+	"Ventana.h"
+
+1558029470 source:/home/martin/Escritorio/version david/version David/src/Texto.cpp
+	"Texto.h"
+
+1558029466 source:/home/martin/Escritorio/version david/version David/src/TextoP.cpp
+	"TextoP.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Window.h"
+
+1558029472 /home/martin/Escritorio/version david/version David/include/Window.h
+	"World.h"
+	<SFML/Graphics.hpp>
+
+1558029464 source:/home/martin/Escritorio/version david/version David/src/TileMap.cpp
+	"TileMap.h"
+
+1558029466 source:/home/martin/Escritorio/version david/version David/src/tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1558089632 source:/home/martin/Escritorio/version david/version David/src/Ventana.cpp
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+
+1558094470 source:/home/martin/Escritorio/version david/version David/src/World.cpp
+	"World.h"
+	"State.h"
+	<SFML/Graphics.hpp>
+	<Ventana.h>
+	"Window.h"
+	"TextoP.h"
+
+1558069948 source:/home/david/Documentos/FV/Hito 3/version david/version David/main.cpp
+	<SFML/Graphics.hpp>
+	"World.h"
+	"Ventana.h"
+	"CargaSprites.h"
+
+1558069960 /home/david/Documentos/FV/Hito 3/version david/version David/include/World.h
+	"State.h"
+
+1558069958 /home/david/Documentos/FV/Hito 3/version david/version David/include/State.h
+	<SFML/Graphics.hpp>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+
+1558069962 /home/david/Documentos/FV/Hito 3/version david/version David/include/Eplat.h
+	"JugadorP.h"
+	"Objeto.h"
+	"Fuente.h"
+	"Npc.h"
+	"LevelFactory.h"
+	<iostream>
+	<vector>
+	<SFML/Graphics.hpp>
+	"TextoP.h"
+	"Agujero.h"
+	"Puerta.h"
+
+1558069948 /home/david/Documentos/FV/Hito 3/version david/version David/include/JugadorP.h
+	<SFML/Graphics.hpp>
+
+1558069958 /home/david/Documentos/FV/Hito 3/version david/version David/include/Objeto.h
+	<SFML/Graphics.hpp>
+
+1558069952 /home/david/Documentos/FV/Hito 3/version david/version David/include/Fuente.h
+	<SFML/Graphics.hpp>
+
+1558069958 /home/david/Documentos/FV/Hito 3/version david/version David/include/Npc.h
+	<SFML/Graphics.hpp>
+
+1558069956 /home/david/Documentos/FV/Hito 3/version david/version David/include/LevelFactory.h
+	<string>
+	"TileMap.h"
+
+1558069954 /home/david/Documentos/FV/Hito 3/version david/version David/include/TileMap.h
+	<SFML/Graphics.hpp>
+
+1558069962 /home/david/Documentos/FV/Hito 3/version david/version David/include/TextoP.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558069954 /home/david/Documentos/FV/Hito 3/version david/version David/include/Agujero.h
+	<SFML/Graphics.hpp>
+
+1558069952 /home/david/Documentos/FV/Hito 3/version david/version David/include/Puerta.h
+	<SFML/Graphics.hpp>
+
+1558069952 /home/david/Documentos/FV/Hito 3/version david/version David/include/Menu.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Colorea.h"
+	"Texto.h"
+	"Eplat.h"
+
+1558069948 /home/david/Documentos/FV/Hito 3/version david/version David/include/Colorea.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+
+1558069960 /home/david/Documentos/FV/Hito 3/version david/version David/include/Texto.h
+	"Colorea.h"
+
+1558069952 /home/david/Documentos/FV/Hito 3/version david/version David/include/Ecomb.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	"Eplat.h"
+	"Personaje.h"
+	"Soldado.h"
+
+1558069952 /home/david/Documentos/FV/Hito 3/version david/version David/include/Personaje.h
+
+1558069962 /home/david/Documentos/FV/Hito 3/version david/version David/include/Soldado.h
+	"Personaje.h"
+
+1558069954 /home/david/Documentos/FV/Hito 3/version david/version David/include/Ventana.h
+	"World.h"
+	"Sonidos.h"
+	"LevelFactory.h"
+	<SFML/Graphics.hpp>
+
+1558069952 /home/david/Documentos/FV/Hito 3/version david/version David/include/Sonidos.h
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558069954 /home/david/Documentos/FV/Hito 3/version david/version David/include/CargaSprites.h
+	<SFML/Graphics.hpp>
+	<map>
+	<assert.h>
+
+1558069986 source:/home/david/Documentos/FV/Hito 3/version david/version David/src/Agujero.cpp
+	"Agujero.h"
+	"Ventana.h"
+	<iostream>
+
+1558069986 source:/home/david/Documentos/FV/Hito 3/version david/version David/src/AnimaSprites.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"AnimaSprites.h"
+	"CargaSprites.h"
+
+1558069960 /home/david/Documentos/FV/Hito 3/version david/version David/include/AnimaSprites.h
+	<SFML/Graphics.hpp>
+
+1558069986 source:/home/david/Documentos/FV/Hito 3/version david/version David/src/CargaSprites.cpp
+	"CargaSprites.h"
+
+1558069988 source:/home/david/Documentos/FV/Hito 3/version david/version David/src/Colorea.cpp
+	"Colorea.h"
+
+1558069994 source:/home/david/Documentos/FV/Hito 3/version david/version David/src/Ecomb.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	<cstdlib>
+	"Ecomb.h"
+	"CargaSprites.h"
+	"Personaje.h"
+	"AnimaSprites.h"
+	"Ventana.h"
+
+1558108945 source:/home/david/Documentos/FV/Hito 3/version david/version David/src/Eplat.cpp
+	"Eplat.h"
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+	"World.h"
+	"Ventana.h"
+	"Objeto.h"
+	"TextoP.h"
+	"Npc.h"
+	"Puerta.h"
+
+1558069990 source:/home/david/Documentos/FV/Hito 3/version david/version David/src/Fuente.cpp
+	"Fuente.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558069986 source:/home/david/Documentos/FV/Hito 3/version david/version David/src/JugadorP.cpp
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1558069992 source:/home/david/Documentos/FV/Hito 3/version david/version David/src/LevelFactory.cpp
+	"LevelFactory.h"
+	<iostream>
+	<cstring>
+	"TileMap.h"
+	"Ventana.h"
+	"tinyxml2.h"
+
+1558069948 /home/david/Documentos/FV/Hito 3/version david/version David/include/tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1558069988 source:/home/david/Documentos/FV/Hito 3/version david/version David/src/Menu.cpp
+	"Menu.h"
+	"Ventana.h"
+	"World.h"
+	"State.h"
+	"CargaSprites.h"
+	<string>
+
+1558069994 source:/home/david/Documentos/FV/Hito 3/version david/version David/src/Npc.cpp
+	"Npc.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1558069984 source:/home/david/Documentos/FV/Hito 3/version david/version David/src/Objeto.cpp
+	"Objeto.h"
+	<SFML/Graphics.hpp>
+	"Ventana.h"
+	<iostream>
+
+1558069988 source:/home/david/Documentos/FV/Hito 3/version david/version David/src/Personaje.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+	"CargaSprites.h"
+	"Ecomb.h"
+	"Colorea.h"
+
+1558069990 source:/home/david/Documentos/FV/Hito 3/version david/version David/src/Puerta.cpp
+	"Puerta.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558069992 source:/home/david/Documentos/FV/Hito 3/version david/version David/src/Soldado.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Soldado.h"
+	"Personaje.h"
+	"CargaSprites.h"
+
+1558105456 source:/home/david/Documentos/FV/Hito 3/version david/version David/src/Sonidos.cpp
+	"Sonidos.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558069988 source:/home/david/Documentos/FV/Hito 3/version david/version David/src/State.cpp
+	"State.h"
+	<iostream>
+	<string>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+	"Ventana.h"
+
+1558069992 source:/home/david/Documentos/FV/Hito 3/version david/version David/src/Texto.cpp
+	"Texto.h"
+
+1558069984 source:/home/david/Documentos/FV/Hito 3/version david/version David/src/TextoP.cpp
+	"TextoP.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Window.h"
+
+1558069948 /home/david/Documentos/FV/Hito 3/version david/version David/include/Window.h
+	"World.h"
+	<SFML/Graphics.hpp>
+
+1558069992 source:/home/david/Documentos/FV/Hito 3/version david/version David/src/TileMap.cpp
+	"TileMap.h"
+
+1558069988 source:/home/david/Documentos/FV/Hito 3/version david/version David/src/tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1558069988 source:/home/david/Documentos/FV/Hito 3/version david/version David/src/Ventana.cpp
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+
+1558106120 source:/home/david/Documentos/FV/Hito 3/version david/version David/src/World.cpp
+	"World.h"
+	"State.h"
+	<SFML/Graphics.hpp>
+	<Ventana.h>
+	"Window.h"
+	"TextoP.h"
+
+1558076954 source:/home/martin/Escritorio/version David/main.cpp
+	<SFML/Graphics.hpp>
+	"World.h"
+	"Ventana.h"
+	"CargaSprites.h"
+
+1558076988 /home/martin/Escritorio/version David/include/World.h
+	"State.h"
+
+1558076980 /home/martin/Escritorio/version David/include/State.h
+	<SFML/Graphics.hpp>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+
+1558112391 /home/martin/Escritorio/version David/include/Eplat.h
+	"JugadorP.h"
+	"Objeto.h"
+	"Fuente.h"
+	"Npc.h"
+	"LevelFactory.h"
+	<iostream>
+	<vector>
+	<SFML/Graphics.hpp>
+	"TextoP.h"
+	"Agujero.h"
+	"Puerta.h"
+
+1558076980 /home/martin/Escritorio/version David/include/JugadorP.h
+	<SFML/Graphics.hpp>
+
+1558076982 /home/martin/Escritorio/version David/include/Objeto.h
+	<SFML/Graphics.hpp>
+
+1558076986 /home/martin/Escritorio/version David/include/Fuente.h
+	<SFML/Graphics.hpp>
+
+1558076984 /home/martin/Escritorio/version David/include/Npc.h
+	<SFML/Graphics.hpp>
+
+1558076982 /home/martin/Escritorio/version David/include/LevelFactory.h
+	<string>
+	"TileMap.h"
+
+1558076980 /home/martin/Escritorio/version David/include/TileMap.h
+	<SFML/Graphics.hpp>
+
+1558076982 /home/martin/Escritorio/version David/include/TextoP.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558076982 /home/martin/Escritorio/version David/include/Agujero.h
+	<SFML/Graphics.hpp>
+
+1558076980 /home/martin/Escritorio/version David/include/Puerta.h
+	<SFML/Graphics.hpp>
+
+1558076982 /home/martin/Escritorio/version David/include/Menu.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Colorea.h"
+	"Texto.h"
+	"Eplat.h"
+
+1558076984 /home/martin/Escritorio/version David/include/Colorea.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+
+1558076986 /home/martin/Escritorio/version David/include/Texto.h
+	"Colorea.h"
+
+1558076986 /home/martin/Escritorio/version David/include/Ecomb.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	"Eplat.h"
+	"Personaje.h"
+	"Soldado.h"
+
+1558076984 /home/martin/Escritorio/version David/include/Personaje.h
+
+1558076980 /home/martin/Escritorio/version David/include/Soldado.h
+	"Personaje.h"
+
+1558076986 /home/martin/Escritorio/version David/include/Ventana.h
+	"World.h"
+	"Sonidos.h"
+	"LevelFactory.h"
+	<SFML/Graphics.hpp>
+
+1558076982 /home/martin/Escritorio/version David/include/Sonidos.h
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558076986 /home/martin/Escritorio/version David/include/CargaSprites.h
+	<SFML/Graphics.hpp>
+	<map>
+	<assert.h>
+
+1558076978 source:/home/martin/Escritorio/version David/src/Agujero.cpp
+	"Agujero.h"
+	"Ventana.h"
+	<iostream>
+
+1558076972 source:/home/martin/Escritorio/version David/src/AnimaSprites.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"AnimaSprites.h"
+	"CargaSprites.h"
+
+1558076986 /home/martin/Escritorio/version David/include/AnimaSprites.h
+	<SFML/Graphics.hpp>
+
+1558076976 source:/home/martin/Escritorio/version David/src/CargaSprites.cpp
+	"CargaSprites.h"
+
+1558076974 source:/home/martin/Escritorio/version David/src/Colorea.cpp
+	"Colorea.h"
+
+1558076974 source:/home/martin/Escritorio/version David/src/Ecomb.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	<cstdlib>
+	"Ecomb.h"
+	"CargaSprites.h"
+	"Personaje.h"
+	"AnimaSprites.h"
+	"Ventana.h"
+
+1558112492 source:/home/martin/Escritorio/version David/src/Eplat.cpp
+	"Eplat.h"
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+	"World.h"
+	"Ventana.h"
+	"Objeto.h"
+	"TextoP.h"
+	"Npc.h"
+	"Puerta.h"
+
+1558076974 source:/home/martin/Escritorio/version David/src/Fuente.cpp
+	"Fuente.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558076974 source:/home/martin/Escritorio/version David/src/JugadorP.cpp
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1558076976 source:/home/martin/Escritorio/version David/src/LevelFactory.cpp
+	"LevelFactory.h"
+	<iostream>
+	<cstring>
+	"TileMap.h"
+	"Ventana.h"
+	"tinyxml2.h"
+
+1558076986 /home/martin/Escritorio/version David/include/tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1558076976 source:/home/martin/Escritorio/version David/src/Menu.cpp
+	"Menu.h"
+	"Ventana.h"
+	"World.h"
+	"State.h"
+	"CargaSprites.h"
+	<string>
+
+1558076978 source:/home/martin/Escritorio/version David/src/Npc.cpp
+	"Npc.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1558076974 source:/home/martin/Escritorio/version David/src/Objeto.cpp
+	"Objeto.h"
+	<SFML/Graphics.hpp>
+	"Ventana.h"
+	<iostream>
+
+1558076978 source:/home/martin/Escritorio/version David/src/Personaje.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+	"CargaSprites.h"
+	"Ecomb.h"
+	"Colorea.h"
+
+1558076978 source:/home/martin/Escritorio/version David/src/Puerta.cpp
+	"Puerta.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558076976 source:/home/martin/Escritorio/version David/src/Soldado.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Soldado.h"
+	"Personaje.h"
+	"CargaSprites.h"
+
+1558076978 source:/home/martin/Escritorio/version David/src/Sonidos.cpp
+	"Sonidos.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558112380 source:/home/martin/Escritorio/version David/src/State.cpp
+	"State.h"
+	<iostream>
+	<string>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+	"Ventana.h"
+
+1558076976 source:/home/martin/Escritorio/version David/src/Texto.cpp
+	"Texto.h"
+
+1558076974 source:/home/martin/Escritorio/version David/src/TextoP.cpp
+	"TextoP.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Window.h"
+
+1558076982 /home/martin/Escritorio/version David/include/Window.h
+	"World.h"
+	<SFML/Graphics.hpp>
+
+1558076972 source:/home/martin/Escritorio/version David/src/TileMap.cpp
+	"TileMap.h"
+
+1558076978 source:/home/martin/Escritorio/version David/src/tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1558076978 source:/home/martin/Escritorio/version David/src/Ventana.cpp
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+
+1558076976 source:/home/martin/Escritorio/version David/src/World.cpp
+	"World.h"
+	"State.h"
+	<SFML/Graphics.hpp>
+	<Ventana.h>
+	"Window.h"
+	"TextoP.h"
+
+1558076954 source:/home/martin/Escritorio/version David2/main.cpp
+	<SFML/Graphics.hpp>
+	"World.h"
+	"Ventana.h"
+	"CargaSprites.h"
+
+1558076988 /home/martin/Escritorio/version David2/include/World.h
+	"State.h"
+
+1558076980 /home/martin/Escritorio/version David2/include/State.h
+	<SFML/Graphics.hpp>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+
+1558112391 /home/martin/Escritorio/version David2/include/Eplat.h
+	"JugadorP.h"
+	"Objeto.h"
+	"Fuente.h"
+	"Npc.h"
+	"LevelFactory.h"
+	<iostream>
+	<vector>
+	<SFML/Graphics.hpp>
+	"TextoP.h"
+	"Agujero.h"
+	"Puerta.h"
+
+1558076980 /home/martin/Escritorio/version David2/include/JugadorP.h
+	<SFML/Graphics.hpp>
+
+1558076982 /home/martin/Escritorio/version David2/include/Objeto.h
+	<SFML/Graphics.hpp>
+
+1558076986 /home/martin/Escritorio/version David2/include/Fuente.h
+	<SFML/Graphics.hpp>
+
+1558076984 /home/martin/Escritorio/version David2/include/Npc.h
+	<SFML/Graphics.hpp>
+
+1558076982 /home/martin/Escritorio/version David2/include/LevelFactory.h
+	<string>
+	"TileMap.h"
+
+1558076980 /home/martin/Escritorio/version David2/include/TileMap.h
+	<SFML/Graphics.hpp>
+
+1558076982 /home/martin/Escritorio/version David2/include/TextoP.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558076982 /home/martin/Escritorio/version David2/include/Agujero.h
+	<SFML/Graphics.hpp>
+
+1558076980 /home/martin/Escritorio/version David2/include/Puerta.h
+	<SFML/Graphics.hpp>
+
+1558076982 /home/martin/Escritorio/version David2/include/Menu.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Colorea.h"
+	"Texto.h"
+	"Eplat.h"
+
+1558076984 /home/martin/Escritorio/version David2/include/Colorea.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+
+1558076986 /home/martin/Escritorio/version David2/include/Texto.h
+	"Colorea.h"
+
+1558076986 /home/martin/Escritorio/version David2/include/Ecomb.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	"Eplat.h"
+	"Personaje.h"
+	"Soldado.h"
+
+1558076984 /home/martin/Escritorio/version David2/include/Personaje.h
+
+1558076980 /home/martin/Escritorio/version David2/include/Soldado.h
+	"Personaje.h"
+
+1558076986 /home/martin/Escritorio/version David2/include/Ventana.h
+	"World.h"
+	"Sonidos.h"
+	"LevelFactory.h"
+	<SFML/Graphics.hpp>
+
+1558076982 /home/martin/Escritorio/version David2/include/Sonidos.h
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558076986 /home/martin/Escritorio/version David2/include/CargaSprites.h
+	<SFML/Graphics.hpp>
+	<map>
+	<assert.h>
+
+1558076978 source:/home/martin/Escritorio/version David2/src/Agujero.cpp
+	"Agujero.h"
+	"Ventana.h"
+	<iostream>
+
+1558076972 source:/home/martin/Escritorio/version David2/src/AnimaSprites.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"AnimaSprites.h"
+	"CargaSprites.h"
+
+1558076986 /home/martin/Escritorio/version David2/include/AnimaSprites.h
+	<SFML/Graphics.hpp>
+
+1558076976 source:/home/martin/Escritorio/version David2/src/CargaSprites.cpp
+	"CargaSprites.h"
+
+1558076974 source:/home/martin/Escritorio/version David2/src/Colorea.cpp
+	"Colorea.h"
+
+1558076974 source:/home/martin/Escritorio/version David2/src/Ecomb.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	<cstdlib>
+	"Ecomb.h"
+	"CargaSprites.h"
+	"Personaje.h"
+	"AnimaSprites.h"
+	"Ventana.h"
+
+1558112492 source:/home/martin/Escritorio/version David2/src/Eplat.cpp
+	"Eplat.h"
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+	"World.h"
+	"Ventana.h"
+	"Objeto.h"
+	"TextoP.h"
+	"Npc.h"
+	"Puerta.h"
+
+1558076974 source:/home/martin/Escritorio/version David2/src/Fuente.cpp
+	"Fuente.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558076974 source:/home/martin/Escritorio/version David2/src/JugadorP.cpp
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1558076976 source:/home/martin/Escritorio/version David2/src/LevelFactory.cpp
+	"LevelFactory.h"
+	<iostream>
+	<cstring>
+	"TileMap.h"
+	"Ventana.h"
+	"tinyxml2.h"
+
+1558076986 /home/martin/Escritorio/version David2/include/tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1558076976 source:/home/martin/Escritorio/version David2/src/Menu.cpp
+	"Menu.h"
+	"Ventana.h"
+	"World.h"
+	"State.h"
+	"CargaSprites.h"
+	<string>
+
+1558076978 source:/home/martin/Escritorio/version David2/src/Npc.cpp
+	"Npc.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1558076974 source:/home/martin/Escritorio/version David2/src/Objeto.cpp
+	"Objeto.h"
+	<SFML/Graphics.hpp>
+	"Ventana.h"
+	<iostream>
+
+1558076978 source:/home/martin/Escritorio/version David2/src/Personaje.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+	"CargaSprites.h"
+	"Ecomb.h"
+	"Colorea.h"
+
+1558076978 source:/home/martin/Escritorio/version David2/src/Puerta.cpp
+	"Puerta.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558076976 source:/home/martin/Escritorio/version David2/src/Soldado.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Soldado.h"
+	"Personaje.h"
+	"CargaSprites.h"
+
+1558076978 source:/home/martin/Escritorio/version David2/src/Sonidos.cpp
+	"Sonidos.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558112380 source:/home/martin/Escritorio/version David2/src/State.cpp
+	"State.h"
+	<iostream>
+	<string>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+	"Ventana.h"
+
+1558076976 source:/home/martin/Escritorio/version David2/src/Texto.cpp
+	"Texto.h"
+
+1558076974 source:/home/martin/Escritorio/version David2/src/TextoP.cpp
+	"TextoP.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Window.h"
+
+1558076982 /home/martin/Escritorio/version David2/include/Window.h
+	"World.h"
+	<SFML/Graphics.hpp>
+
+1558076972 source:/home/martin/Escritorio/version David2/src/TileMap.cpp
+	"TileMap.h"
+
+1558076978 source:/home/martin/Escritorio/version David2/src/tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1558076978 source:/home/martin/Escritorio/version David2/src/Ventana.cpp
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+
+1558076976 source:/home/martin/Escritorio/version David2/src/World.cpp
+	"World.h"
+	"State.h"
+	<SFML/Graphics.hpp>
+	<Ventana.h>
+	"Window.h"
+	"TextoP.h"
+
+1558084848 source:/home/david/Documentos/FV/Hito 3/version David2/main.cpp
+	<SFML/Graphics.hpp>
+	"World.h"
+	"Ventana.h"
+	"CargaSprites.h"
+
+1558084858 /home/david/Documentos/FV/Hito 3/version David2/include/World.h
+	"State.h"
+
+1558084856 /home/david/Documentos/FV/Hito 3/version David2/include/State.h
+	<SFML/Graphics.hpp>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+
+1558122800 /home/david/Documentos/FV/Hito 3/version David2/include/Eplat.h
+	"JugadorP.h"
+	"Objeto.h"
+	"Fuente.h"
+	"Npc.h"
+	"LevelFactory.h"
+	<iostream>
+	<vector>
+	<SFML/Graphics.hpp>
+	"TextoP.h"
+	"Agujero.h"
+	"Puerta.h"
+
+1558122725 /home/david/Documentos/FV/Hito 3/version David2/include/JugadorP.h
+	<SFML/Graphics.hpp>
+
+1558084856 /home/david/Documentos/FV/Hito 3/version David2/include/Objeto.h
+	<SFML/Graphics.hpp>
+
+1558084852 /home/david/Documentos/FV/Hito 3/version David2/include/Fuente.h
+	<SFML/Graphics.hpp>
+
+1558084858 /home/david/Documentos/FV/Hito 3/version David2/include/Npc.h
+	<SFML/Graphics.hpp>
+
+1558084856 /home/david/Documentos/FV/Hito 3/version David2/include/LevelFactory.h
+	<string>
+	"TileMap.h"
+
+1558084854 /home/david/Documentos/FV/Hito 3/version David2/include/TileMap.h
+	<SFML/Graphics.hpp>
+
+1558084858 /home/david/Documentos/FV/Hito 3/version David2/include/TextoP.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558084854 /home/david/Documentos/FV/Hito 3/version David2/include/Agujero.h
+	<SFML/Graphics.hpp>
+
+1558084854 /home/david/Documentos/FV/Hito 3/version David2/include/Puerta.h
+	<SFML/Graphics.hpp>
+
+1558084852 /home/david/Documentos/FV/Hito 3/version David2/include/Menu.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Colorea.h"
+	"Texto.h"
+	"Eplat.h"
+
+1558084850 /home/david/Documentos/FV/Hito 3/version David2/include/Colorea.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+
+1558084856 /home/david/Documentos/FV/Hito 3/version David2/include/Texto.h
+	"Colorea.h"
+
+1558084852 /home/david/Documentos/FV/Hito 3/version David2/include/Ecomb.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	"Eplat.h"
+	"Personaje.h"
+	"Soldado.h"
+
+1558084852 /home/david/Documentos/FV/Hito 3/version David2/include/Personaje.h
+
+1558084856 /home/david/Documentos/FV/Hito 3/version David2/include/Soldado.h
+	"Personaje.h"
+
+1558084854 /home/david/Documentos/FV/Hito 3/version David2/include/Ventana.h
+	"World.h"
+	"Sonidos.h"
+	"LevelFactory.h"
+	<SFML/Graphics.hpp>
+
+1558134265 /home/david/Documentos/FV/Hito 3/version David2/include/Sonidos.h
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558084854 /home/david/Documentos/FV/Hito 3/version David2/include/CargaSprites.h
+	<SFML/Graphics.hpp>
+	<map>
+	<assert.h>
+
+1558084880 source:/home/david/Documentos/FV/Hito 3/version David2/src/Agujero.cpp
+	"Agujero.h"
+	"Ventana.h"
+	<iostream>
+
+1558084880 source:/home/david/Documentos/FV/Hito 3/version David2/src/AnimaSprites.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"AnimaSprites.h"
+	"CargaSprites.h"
+
+1558084856 /home/david/Documentos/FV/Hito 3/version David2/include/AnimaSprites.h
+	<SFML/Graphics.hpp>
+
+1558084880 source:/home/david/Documentos/FV/Hito 3/version David2/src/CargaSprites.cpp
+	"CargaSprites.h"
+
+1558084880 source:/home/david/Documentos/FV/Hito 3/version David2/src/Colorea.cpp
+	"Colorea.h"
+
+1558084886 source:/home/david/Documentos/FV/Hito 3/version David2/src/Ecomb.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	<cstdlib>
+	"Ecomb.h"
+	"CargaSprites.h"
+	"Personaje.h"
+	"AnimaSprites.h"
+	"Ventana.h"
+
+1558084882 source:/home/david/Documentos/FV/Hito 3/version David2/src/Fuente.cpp
+	"Fuente.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558133660 source:/home/david/Documentos/FV/Hito 3/version David2/src/JugadorP.cpp
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1558084886 source:/home/david/Documentos/FV/Hito 3/version David2/src/LevelFactory.cpp
+	"LevelFactory.h"
+	<iostream>
+	<cstring>
+	"TileMap.h"
+	"Ventana.h"
+	"tinyxml2.h"
+
+1558084850 /home/david/Documentos/FV/Hito 3/version David2/include/tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1558084880 source:/home/david/Documentos/FV/Hito 3/version David2/src/Menu.cpp
+	"Menu.h"
+	"Ventana.h"
+	"World.h"
+	"State.h"
+	"CargaSprites.h"
+	<string>
+
+1558084886 source:/home/david/Documentos/FV/Hito 3/version David2/src/Npc.cpp
+	"Npc.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1558084876 source:/home/david/Documentos/FV/Hito 3/version David2/src/Objeto.cpp
+	"Objeto.h"
+	<SFML/Graphics.hpp>
+	"Ventana.h"
+	<iostream>
+
+1558084882 source:/home/david/Documentos/FV/Hito 3/version David2/src/Personaje.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+	"CargaSprites.h"
+	"Ecomb.h"
+	"Colorea.h"
+
+1558084884 source:/home/david/Documentos/FV/Hito 3/version David2/src/Puerta.cpp
+	"Puerta.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558084886 source:/home/david/Documentos/FV/Hito 3/version David2/src/Soldado.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Soldado.h"
+	"Personaje.h"
+	"CargaSprites.h"
+
+1558122952 source:/home/david/Documentos/FV/Hito 3/version David2/src/State.cpp
+	"State.h"
+	<iostream>
+	<string>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+	"Ventana.h"
+
+1558084886 source:/home/david/Documentos/FV/Hito 3/version David2/src/Texto.cpp
+	"Texto.h"
+
+1558084878 source:/home/david/Documentos/FV/Hito 3/version David2/src/TextoP.cpp
+	"TextoP.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Window.h"
+
+1558084848 /home/david/Documentos/FV/Hito 3/version David2/include/Window.h
+	"World.h"
+	<SFML/Graphics.hpp>
+
+1558084884 source:/home/david/Documentos/FV/Hito 3/version David2/src/TileMap.cpp
+	"TileMap.h"
+
+1558084880 source:/home/david/Documentos/FV/Hito 3/version David2/src/tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1558084882 source:/home/david/Documentos/FV/Hito 3/version David2/src/Ventana.cpp
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+
+1558132520 source:/home/david/Documentos/FV/Hito 3/version David2/src/World.cpp
+	"World.h"
+	"State.h"
+	<SFML/Graphics.hpp>
+	<Ventana.h>
+	"Window.h"
+	"TextoP.h"
+
+1558134485 source:/home/david/Documentos/FV/Hito 3/version David2/src/Eplat.cpp
+	"Eplat.h"
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+	"World.h"
+	"Ventana.h"
+	"Objeto.h"
+	"TextoP.h"
+	"Npc.h"
+	"Puerta.h"
+
+1558134503 source:/home/david/Documentos/FV/Hito 3/version David2/src/Sonidos.cpp
+	"Sonidos.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558084848 source:/home/martin/Escritorio/version David3/main.cpp
+	<SFML/Graphics.hpp>
+	"World.h"
+	"Ventana.h"
+	"CargaSprites.h"
+
+1558084858 /home/martin/Escritorio/version David3/include/World.h
+	"State.h"
+
+1558084856 /home/martin/Escritorio/version David3/include/State.h
+	<SFML/Graphics.hpp>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+
+1558255342 /home/martin/Escritorio/version David3/include/Eplat.h
+	"JugadorP.h"
+	"Objeto.h"
+	"Fuente.h"
+	"Npc.h"
+	"LevelFactory.h"
+	<iostream>
+	<vector>
+	<SFML/Graphics.hpp>
+	"TextoP.h"
+	"Agujero.h"
+	"Puerta.h"
+
+1558122726 /home/martin/Escritorio/version David3/include/JugadorP.h
+	<SFML/Graphics.hpp>
+
+1558084856 /home/martin/Escritorio/version David3/include/Objeto.h
+	<SFML/Graphics.hpp>
+
+1558084852 /home/martin/Escritorio/version David3/include/Fuente.h
+	<SFML/Graphics.hpp>
+
+1558084858 /home/martin/Escritorio/version David3/include/Npc.h
+	<SFML/Graphics.hpp>
+
+1558084856 /home/martin/Escritorio/version David3/include/LevelFactory.h
+	<string>
+	"TileMap.h"
+
+1558084854 /home/martin/Escritorio/version David3/include/TileMap.h
+	<SFML/Graphics.hpp>
+
+1558084858 /home/martin/Escritorio/version David3/include/TextoP.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558084854 /home/martin/Escritorio/version David3/include/Agujero.h
+	<SFML/Graphics.hpp>
+
+1558084854 /home/martin/Escritorio/version David3/include/Puerta.h
+	<SFML/Graphics.hpp>
+
+1558084852 /home/martin/Escritorio/version David3/include/Menu.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Colorea.h"
+	"Texto.h"
+	"Eplat.h"
+
+1558084850 /home/martin/Escritorio/version David3/include/Colorea.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+
+1558084856 /home/martin/Escritorio/version David3/include/Texto.h
+	"Colorea.h"
+
+1558084852 /home/martin/Escritorio/version David3/include/Ecomb.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	"Eplat.h"
+	"Personaje.h"
+	"Soldado.h"
+
+1558084852 /home/martin/Escritorio/version David3/include/Personaje.h
+
+1558084856 /home/martin/Escritorio/version David3/include/Soldado.h
+	"Personaje.h"
+
+1558256356 /home/martin/Escritorio/version David3/include/Ventana.h
+	"World.h"
+	"Sonidos.h"
+	"LevelFactory.h"
+	<SFML/Graphics.hpp>
+
+1558134266 /home/martin/Escritorio/version David3/include/Sonidos.h
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558084854 /home/martin/Escritorio/version David3/include/CargaSprites.h
+	<SFML/Graphics.hpp>
+	<map>
+	<assert.h>
+
+1558084880 source:/home/martin/Escritorio/version David3/src/Agujero.cpp
+	"Agujero.h"
+	"Ventana.h"
+	<iostream>
+
+1558084880 source:/home/martin/Escritorio/version David3/src/AnimaSprites.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"AnimaSprites.h"
+	"CargaSprites.h"
+
+1558084856 /home/martin/Escritorio/version David3/include/AnimaSprites.h
+	<SFML/Graphics.hpp>
+
+1558084880 source:/home/martin/Escritorio/version David3/src/CargaSprites.cpp
+	"CargaSprites.h"
+
+1558084880 source:/home/martin/Escritorio/version David3/src/Colorea.cpp
+	"Colorea.h"
+
+1558084886 source:/home/martin/Escritorio/version David3/src/Ecomb.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	<cstdlib>
+	"Ecomb.h"
+	"CargaSprites.h"
+	"Personaje.h"
+	"AnimaSprites.h"
+	"Ventana.h"
+
+1558266614 source:/home/martin/Escritorio/version David3/src/Eplat.cpp
+	"Eplat.h"
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+	"World.h"
+	"Ventana.h"
+	"Objeto.h"
+	"TextoP.h"
+	"Npc.h"
+	"Puerta.h"
+
+1558084882 source:/home/martin/Escritorio/version David3/src/Fuente.cpp
+	"Fuente.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558257573 source:/home/martin/Escritorio/version David3/src/JugadorP.cpp
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1558265741 source:/home/martin/Escritorio/version David3/src/LevelFactory.cpp
+	"LevelFactory.h"
+	<iostream>
+	<cstring>
+	"TileMap.h"
+	"Ventana.h"
+	"tinyxml2.h"
+
+1558084850 /home/martin/Escritorio/version David3/include/tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1558084880 source:/home/martin/Escritorio/version David3/src/Menu.cpp
+	"Menu.h"
+	"Ventana.h"
+	"World.h"
+	"State.h"
+	"CargaSprites.h"
+	<string>
+
+1558084886 source:/home/martin/Escritorio/version David3/src/Npc.cpp
+	"Npc.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1558084876 source:/home/martin/Escritorio/version David3/src/Objeto.cpp
+	"Objeto.h"
+	<SFML/Graphics.hpp>
+	"Ventana.h"
+	<iostream>
+
+1558084882 source:/home/martin/Escritorio/version David3/src/Personaje.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+	"CargaSprites.h"
+	"Ecomb.h"
+	"Colorea.h"
+
+1558084884 source:/home/martin/Escritorio/version David3/src/Puerta.cpp
+	"Puerta.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558084886 source:/home/martin/Escritorio/version David3/src/Soldado.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Soldado.h"
+	"Personaje.h"
+	"CargaSprites.h"
+
+1558134504 source:/home/martin/Escritorio/version David3/src/Sonidos.cpp
+	"Sonidos.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558256965 source:/home/martin/Escritorio/version David3/src/State.cpp
+	"State.h"
+	<iostream>
+	<string>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+	"Ventana.h"
+
+1558084886 source:/home/martin/Escritorio/version David3/src/Texto.cpp
+	"Texto.h"
+
+1558084878 source:/home/martin/Escritorio/version David3/src/TextoP.cpp
+	"TextoP.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Window.h"
+
+1558084848 /home/martin/Escritorio/version David3/include/Window.h
+	"World.h"
+	<SFML/Graphics.hpp>
+
+1558084884 source:/home/martin/Escritorio/version David3/src/TileMap.cpp
+	"TileMap.h"
+
+1558084880 source:/home/martin/Escritorio/version David3/src/tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1558256369 source:/home/martin/Escritorio/version David3/src/Ventana.cpp
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+
+1558132520 source:/home/martin/Escritorio/version David3/src/World.cpp
+	"World.h"
+	"State.h"
+	<SFML/Graphics.hpp>
+	<Ventana.h>
+	"Window.h"
+	"TextoP.h"
+
+1558373474 source:/home/mer/Descargas/version David3/main.cpp
+	<SFML/Graphics.hpp>
+	"World.h"
+	"Ventana.h"
+	"CargaSprites.h"
+
+1558371121 /home/mer/Descargas/version David3/include/World.h
+	"State.h"
+
+1558376621 /home/mer/Descargas/version David3/include/State.h
+	<SFML/Graphics.hpp>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+
+1558376011 /home/mer/Descargas/version David3/include/Eplat.h
+	"JugadorP.h"
+	"Objeto.h"
+	"Fuente.h"
+	"Npc.h"
+	"LevelFactory.h"
+	<iostream>
+	<vector>
+	<SFML/Graphics.hpp>
+	"TextoP.h"
+	"Agujero.h"
+	"Puerta.h"
+
+1558368859 /home/mer/Descargas/version David3/include/JugadorP.h
+	<SFML/Graphics.hpp>
+
+1558084856 /home/mer/Descargas/version David3/include/Objeto.h
+	<SFML/Graphics.hpp>
+
+1558084852 /home/mer/Descargas/version David3/include/Fuente.h
+	<SFML/Graphics.hpp>
+
+1558304811 /home/mer/Descargas/version David3/include/Npc.h
+	<SFML/Graphics.hpp>
+
+1558376218 /home/mer/Descargas/version David3/include/LevelFactory.h
+	<string>
+	"TileMap.h"
+
+1558084854 /home/mer/Descargas/version David3/include/TileMap.h
+	<SFML/Graphics.hpp>
+
+1558084858 /home/mer/Descargas/version David3/include/TextoP.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558084854 /home/mer/Descargas/version David3/include/Agujero.h
+	<SFML/Graphics.hpp>
+
+1558084854 /home/mer/Descargas/version David3/include/Puerta.h
+	<SFML/Graphics.hpp>
+
+1558379180 /home/mer/Descargas/version David3/include/Menu.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Colorea.h"
+	"Texto.h"
+	"Eplat.h"
+
+1558084850 /home/mer/Descargas/version David3/include/Colorea.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+
+1558084856 /home/mer/Descargas/version David3/include/Texto.h
+	"Colorea.h"
+
+1558373007 /home/mer/Descargas/version David3/include/Ecomb.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	"Eplat.h"
+	"Personaje.h"
+	"Soldado.h"
+	"Mutante.h"
+	"Zero.h"
+
+1558371964 /home/mer/Descargas/version David3/include/Personaje.h
+
+1558084856 /home/mer/Descargas/version David3/include/Soldado.h
+	"Personaje.h"
+
+1558256356 /home/mer/Descargas/version David3/include/Ventana.h
+	"World.h"
+	"Sonidos.h"
+	"LevelFactory.h"
+	<SFML/Graphics.hpp>
+
+1558345319 /home/mer/Descargas/version David3/include/Sonidos.h
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558084854 /home/mer/Descargas/version David3/include/CargaSprites.h
+	<SFML/Graphics.hpp>
+	<map>
+	<assert.h>
+
+1558084880 source:/home/mer/Descargas/version David3/src/Agujero.cpp
+	"Agujero.h"
+	"Ventana.h"
+	<iostream>
+
+1558084880 source:/home/mer/Descargas/version David3/src/AnimaSprites.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"AnimaSprites.h"
+	"CargaSprites.h"
+
+1558084856 /home/mer/Descargas/version David3/include/AnimaSprites.h
+	<SFML/Graphics.hpp>
+
+1558084880 source:/home/mer/Descargas/version David3/src/CargaSprites.cpp
+	"CargaSprites.h"
+
+1558084880 source:/home/mer/Descargas/version David3/src/Colorea.cpp
+	"Colorea.h"
+
+1558373066 source:/home/mer/Descargas/version David3/src/Ecomb.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	<cstdlib>
+	"Ecomb.h"
+	"CargaSprites.h"
+	"Personaje.h"
+	"AnimaSprites.h"
+	"Ventana.h"
+
+1558378661 source:/home/mer/Descargas/version David3/src/Eplat.cpp
+	"Eplat.h"
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+	"World.h"
+	"Ventana.h"
+	"Objeto.h"
+	"TextoP.h"
+	"Npc.h"
+	"Puerta.h"
+
+1558084882 source:/home/mer/Descargas/version David3/src/Fuente.cpp
+	"Fuente.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558369033 source:/home/mer/Descargas/version David3/src/JugadorP.cpp
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1558374236 source:/home/mer/Descargas/version David3/src/LevelFactory.cpp
+	"LevelFactory.h"
+	<iostream>
+	<cstring>
+	"TileMap.h"
+	"Ventana.h"
+	"tinyxml2.h"
+
+1558084850 /home/mer/Descargas/version David3/include/tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1558379381 source:/home/mer/Descargas/version David3/src/Menu.cpp
+	"Menu.h"
+	"Ventana.h"
+	"World.h"
+	"State.h"
+	"CargaSprites.h"
+	<string>
+
+1558374409 source:/home/mer/Descargas/version David3/src/Npc.cpp
+	"Npc.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1558084876 source:/home/mer/Descargas/version David3/src/Objeto.cpp
+	"Objeto.h"
+	<SFML/Graphics.hpp>
+	"Ventana.h"
+	<iostream>
+
+1558371896 source:/home/mer/Descargas/version David3/src/Personaje.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+	"CargaSprites.h"
+	"Ecomb.h"
+	"Colorea.h"
+
+1558084884 source:/home/mer/Descargas/version David3/src/Puerta.cpp
+	"Puerta.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558372009 source:/home/mer/Descargas/version David3/src/Soldado.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Soldado.h"
+	"Personaje.h"
+	"CargaSprites.h"
+
+1558345781 source:/home/mer/Descargas/version David3/src/Sonidos.cpp
+	"Sonidos.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558373534 source:/home/mer/Descargas/version David3/src/Texto.cpp
+	"Texto.h"
+
+1558084878 source:/home/mer/Descargas/version David3/src/TextoP.cpp
+	"TextoP.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Window.h"
+
+1558084848 /home/mer/Descargas/version David3/include/Window.h
+	"World.h"
+	<SFML/Graphics.hpp>
+
+1558084884 source:/home/mer/Descargas/version David3/src/TileMap.cpp
+	"TileMap.h"
+
+1558084880 source:/home/mer/Descargas/version David3/src/tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1558374335 source:/home/mer/Descargas/version David3/src/Ventana.cpp
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+
+1558378401 source:/home/mer/Descargas/version David3/src/World.cpp
+	"World.h"
+	"State.h"
+	<SFML/Graphics.hpp>
+	<Ventana.h>
+	"Window.h"
+	"TextoP.h"
+
+1558374526 source:/home/mer/Descargas/version David3/src/State.cpp
+	"State.h"
+	<iostream>
+	<string>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+	"Ventana.h"
+
+1558371537 /home/mer/Descargas/version David3/include/Mutante.h
+	"Personaje.h"
+
+1558371622 /home/mer/Descargas/version David3/include/Zero.h
+	"Personaje.h"
+
+1558371407 source:/home/mer/Descargas/version David3/src/Mutante.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mutante.h"
+	"Personaje.h"
+	"CargaSprites.h"
+
+1558371594 source:/home/mer/Descargas/version David3/src/Zero.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Zero.h"
+	"Personaje.h"
+	"CargaSprites.h"
+
+1558373474 source:/home/fenix/Escritorio/version David3/main.cpp
+	<SFML/Graphics.hpp>
+	"World.h"
+	"Ventana.h"
+	"CargaSprites.h"
+
+1558387773 /home/fenix/Escritorio/version David3/include/World.h
+	"State.h"
+
+1558376620 /home/fenix/Escritorio/version David3/include/State.h
+	<SFML/Graphics.hpp>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+
+1558376010 /home/fenix/Escritorio/version David3/include/Eplat.h
+	"JugadorP.h"
+	"Objeto.h"
+	"Fuente.h"
+	"Npc.h"
+	"LevelFactory.h"
+	<iostream>
+	<vector>
+	<SFML/Graphics.hpp>
+	"TextoP.h"
+	"Agujero.h"
+	"Puerta.h"
+
+1558368858 /home/fenix/Escritorio/version David3/include/JugadorP.h
+	<SFML/Graphics.hpp>
+
+1558084856 /home/fenix/Escritorio/version David3/include/Objeto.h
+	<SFML/Graphics.hpp>
+
+1558084852 /home/fenix/Escritorio/version David3/include/Fuente.h
+	<SFML/Graphics.hpp>
+
+1558304810 /home/fenix/Escritorio/version David3/include/Npc.h
+	<SFML/Graphics.hpp>
+
+1558376218 /home/fenix/Escritorio/version David3/include/LevelFactory.h
+	<string>
+	"TileMap.h"
+
+1558084854 /home/fenix/Escritorio/version David3/include/TileMap.h
+	<SFML/Graphics.hpp>
+
+1558084858 /home/fenix/Escritorio/version David3/include/TextoP.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558084854 /home/fenix/Escritorio/version David3/include/Agujero.h
+	<SFML/Graphics.hpp>
+
+1558084854 /home/fenix/Escritorio/version David3/include/Puerta.h
+	<SFML/Graphics.hpp>
+
+1558379180 /home/fenix/Escritorio/version David3/include/Menu.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Colorea.h"
+	"Texto.h"
+	"Eplat.h"
+
+1558084850 /home/fenix/Escritorio/version David3/include/Colorea.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+
+1558084856 /home/fenix/Escritorio/version David3/include/Texto.h
+	"Colorea.h"
+
+1558386575 /home/fenix/Escritorio/version David3/include/Ecomb.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	"Eplat.h"
+	"Personaje.h"
+	"Soldado.h"
+	"Mutante.h"
+	"Zero.h"
+
+1558386579 /home/fenix/Escritorio/version David3/include/Personaje.h
+
+1558084856 /home/fenix/Escritorio/version David3/include/Soldado.h
+	"Personaje.h"
+
+1558371536 /home/fenix/Escritorio/version David3/include/Mutante.h
+	"Personaje.h"
+
+1558371622 /home/fenix/Escritorio/version David3/include/Zero.h
+	"Personaje.h"
+
+1558256356 /home/fenix/Escritorio/version David3/include/Ventana.h
+	"World.h"
+	"Sonidos.h"
+	"LevelFactory.h"
+	<SFML/Graphics.hpp>
+
+1558345318 /home/fenix/Escritorio/version David3/include/Sonidos.h
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558084854 /home/fenix/Escritorio/version David3/include/CargaSprites.h
+	<SFML/Graphics.hpp>
+	<map>
+	<assert.h>
+
+1558084880 source:/home/fenix/Escritorio/version David3/src/Agujero.cpp
+	"Agujero.h"
+	"Ventana.h"
+	<iostream>
+
+1558084880 source:/home/fenix/Escritorio/version David3/src/AnimaSprites.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"AnimaSprites.h"
+	"CargaSprites.h"
+
+1558084856 /home/fenix/Escritorio/version David3/include/AnimaSprites.h
+	<SFML/Graphics.hpp>
+
+1558084880 source:/home/fenix/Escritorio/version David3/src/CargaSprites.cpp
+	"CargaSprites.h"
+
+1558084880 source:/home/fenix/Escritorio/version David3/src/Colorea.cpp
+	"Colorea.h"
+
+1558388073 source:/home/fenix/Escritorio/version David3/src/Eplat.cpp
+	"Eplat.h"
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+	"World.h"
+	"Ventana.h"
+	"Objeto.h"
+	"TextoP.h"
+	"Npc.h"
+	"Puerta.h"
+
+1558084882 source:/home/fenix/Escritorio/version David3/src/Fuente.cpp
+	"Fuente.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558369032 source:/home/fenix/Escritorio/version David3/src/JugadorP.cpp
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1558374236 source:/home/fenix/Escritorio/version David3/src/LevelFactory.cpp
+	"LevelFactory.h"
+	<iostream>
+	<cstring>
+	"TileMap.h"
+	"Ventana.h"
+	"tinyxml2.h"
+
+1558084850 /home/fenix/Escritorio/version David3/include/tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1558379380 source:/home/fenix/Escritorio/version David3/src/Menu.cpp
+	"Menu.h"
+	"Ventana.h"
+	"World.h"
+	"State.h"
+	"CargaSprites.h"
+	<string>
+
+1558371406 source:/home/fenix/Escritorio/version David3/src/Mutante.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mutante.h"
+	"Personaje.h"
+	"CargaSprites.h"
+
+1558374408 source:/home/fenix/Escritorio/version David3/src/Npc.cpp
+	"Npc.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1558084876 source:/home/fenix/Escritorio/version David3/src/Objeto.cpp
+	"Objeto.h"
+	<SFML/Graphics.hpp>
+	"Ventana.h"
+	<iostream>
+
+1558084884 source:/home/fenix/Escritorio/version David3/src/Puerta.cpp
+	"Puerta.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558372008 source:/home/fenix/Escritorio/version David3/src/Soldado.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Soldado.h"
+	"Personaje.h"
+	"CargaSprites.h"
+
+1558345780 source:/home/fenix/Escritorio/version David3/src/Sonidos.cpp
+	"Sonidos.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558374526 source:/home/fenix/Escritorio/version David3/src/State.cpp
+	"State.h"
+	<iostream>
+	<string>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+	"Ventana.h"
+
+1558373534 source:/home/fenix/Escritorio/version David3/src/Texto.cpp
+	"Texto.h"
+
+1558084878 source:/home/fenix/Escritorio/version David3/src/TextoP.cpp
+	"TextoP.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Window.h"
+
+1558084848 /home/fenix/Escritorio/version David3/include/Window.h
+	"World.h"
+	<SFML/Graphics.hpp>
+
+1558084884 source:/home/fenix/Escritorio/version David3/src/TileMap.cpp
+	"TileMap.h"
+
+1558084880 source:/home/fenix/Escritorio/version David3/src/tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1558374334 source:/home/fenix/Escritorio/version David3/src/Ventana.cpp
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+
+1558378400 source:/home/fenix/Escritorio/version David3/src/World.cpp
+	"World.h"
+	"State.h"
+	<SFML/Graphics.hpp>
+	<Ventana.h>
+	"Window.h"
+	"TextoP.h"
+
+1558388028 source:/home/fenix/Escritorio/version David3/src/Zero.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Zero.h"
+	"Personaje.h"
+	"CargaSprites.h"
+
+1558387968 source:/home/fenix/Escritorio/version David3/src/Ecomb.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	<cstdlib>
+	"Ecomb.h"
+	"CargaSprites.h"
+	"Personaje.h"
+	"AnimaSprites.h"
+	"Ventana.h"
+
+1558386581 source:/home/fenix/Escritorio/version David3/src/Personaje.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+	"CargaSprites.h"
+	"Ecomb.h"
+	"Colorea.h"
+
+1558433884 source:/home/fenix/Escritorio/versionDavid3/main.cpp
+	<SFML/Graphics.hpp>
+	"World.h"
+	"Ventana.h"
+	"CargaSprites.h"
+
+1558433912 /home/fenix/Escritorio/versionDavid3/include/World.h
+	"State.h"
+
+1558433916 /home/fenix/Escritorio/versionDavid3/include/State.h
+	<SFML/Graphics.hpp>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+
+1558433914 /home/fenix/Escritorio/versionDavid3/include/Eplat.h
+	"JugadorP.h"
+	"Objeto.h"
+	"Fuente.h"
+	"Npc.h"
+	"LevelFactory.h"
+	<iostream>
+	<vector>
+	<SFML/Graphics.hpp>
+	"TextoP.h"
+	"Agujero.h"
+	"Puerta.h"
+
+1558433914 /home/fenix/Escritorio/versionDavid3/include/JugadorP.h
+	<SFML/Graphics.hpp>
+
+1558433920 /home/fenix/Escritorio/versionDavid3/include/Objeto.h
+	<SFML/Graphics.hpp>
+
+1558433918 /home/fenix/Escritorio/versionDavid3/include/Fuente.h
+	<SFML/Graphics.hpp>
+
+1558433920 /home/fenix/Escritorio/versionDavid3/include/Npc.h
+	<SFML/Graphics.hpp>
+
+1558433916 /home/fenix/Escritorio/versionDavid3/include/LevelFactory.h
+	<string>
+	"TileMap.h"
+
+1558433916 /home/fenix/Escritorio/versionDavid3/include/TileMap.h
+	<SFML/Graphics.hpp>
+
+1558433914 /home/fenix/Escritorio/versionDavid3/include/TextoP.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558433920 /home/fenix/Escritorio/versionDavid3/include/Agujero.h
+	<SFML/Graphics.hpp>
+
+1558433916 /home/fenix/Escritorio/versionDavid3/include/Puerta.h
+	<SFML/Graphics.hpp>
+
+1558433914 /home/fenix/Escritorio/versionDavid3/include/Menu.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Colorea.h"
+	"Texto.h"
+	"Eplat.h"
+
+1558433920 /home/fenix/Escritorio/versionDavid3/include/Colorea.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+
+1558433918 /home/fenix/Escritorio/versionDavid3/include/Texto.h
+	"Colorea.h"
+
+1558469345 /home/fenix/Escritorio/versionDavid3/include/Ecomb.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	"Eplat.h"
+	"Personaje.h"
+	"Soldado.h"
+	"Mutante.h"
+	"Zero.h"
+
+1558433914 /home/fenix/Escritorio/versionDavid3/include/Personaje.h
+
+1558433920 /home/fenix/Escritorio/versionDavid3/include/Soldado.h
+	"Personaje.h"
+
+1558433916 /home/fenix/Escritorio/versionDavid3/include/Mutante.h
+	"Personaje.h"
+
+1558433920 /home/fenix/Escritorio/versionDavid3/include/Zero.h
+	"Personaje.h"
+
+1558433918 /home/fenix/Escritorio/versionDavid3/include/Ventana.h
+	"World.h"
+	"Sonidos.h"
+	"LevelFactory.h"
+	<SFML/Graphics.hpp>
+
+1558433916 /home/fenix/Escritorio/versionDavid3/include/Sonidos.h
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558433916 /home/fenix/Escritorio/versionDavid3/include/CargaSprites.h
+	<SFML/Graphics.hpp>
+	<map>
+	<assert.h>
+
+1558433922 source:/home/fenix/Escritorio/versionDavid3/src/Agujero.cpp
+	"Agujero.h"
+	"Ventana.h"
+	<iostream>
+
+1558433924 source:/home/fenix/Escritorio/versionDavid3/src/AnimaSprites.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"AnimaSprites.h"
+	"CargaSprites.h"
+
+1558433920 /home/fenix/Escritorio/versionDavid3/include/AnimaSprites.h
+	<SFML/Graphics.hpp>
+
+1558433928 source:/home/fenix/Escritorio/versionDavid3/src/CargaSprites.cpp
+	"CargaSprites.h"
+
+1558433920 source:/home/fenix/Escritorio/versionDavid3/src/Colorea.cpp
+	"Colorea.h"
+
+1558433930 source:/home/fenix/Escritorio/versionDavid3/src/Eplat.cpp
+	"Eplat.h"
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+	"World.h"
+	"Ventana.h"
+	"Objeto.h"
+	"TextoP.h"
+	"Npc.h"
+	"Puerta.h"
+
+1558433926 source:/home/fenix/Escritorio/versionDavid3/src/Fuente.cpp
+	"Fuente.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558433922 source:/home/fenix/Escritorio/versionDavid3/src/JugadorP.cpp
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1558433930 source:/home/fenix/Escritorio/versionDavid3/src/LevelFactory.cpp
+	"LevelFactory.h"
+	<iostream>
+	<cstring>
+	"TileMap.h"
+	"Ventana.h"
+	"tinyxml2.h"
+
+1558433916 /home/fenix/Escritorio/versionDavid3/include/tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1558433930 source:/home/fenix/Escritorio/versionDavid3/src/Menu.cpp
+	"Menu.h"
+	"Ventana.h"
+	"World.h"
+	"State.h"
+	"CargaSprites.h"
+	<string>
+
+1558433926 source:/home/fenix/Escritorio/versionDavid3/src/Mutante.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mutante.h"
+	"Personaje.h"
+	"CargaSprites.h"
+
+1558433928 source:/home/fenix/Escritorio/versionDavid3/src/Npc.cpp
+	"Npc.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1558433926 source:/home/fenix/Escritorio/versionDavid3/src/Objeto.cpp
+	"Objeto.h"
+	<SFML/Graphics.hpp>
+	"Ventana.h"
+	<iostream>
+
+1558468875 source:/home/fenix/Escritorio/versionDavid3/src/Personaje.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+	"CargaSprites.h"
+	"Ecomb.h"
+	"Colorea.h"
+
+1558433926 source:/home/fenix/Escritorio/versionDavid3/src/Puerta.cpp
+	"Puerta.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558433926 source:/home/fenix/Escritorio/versionDavid3/src/Soldado.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Soldado.h"
+	"Personaje.h"
+	"CargaSprites.h"
+
+1558433926 source:/home/fenix/Escritorio/versionDavid3/src/Sonidos.cpp
+	"Sonidos.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558433922 source:/home/fenix/Escritorio/versionDavid3/src/State.cpp
+	"State.h"
+	<iostream>
+	<string>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+	"Ventana.h"
+
+1558433922 source:/home/fenix/Escritorio/versionDavid3/src/Texto.cpp
+	"Texto.h"
+
+1558433924 source:/home/fenix/Escritorio/versionDavid3/src/TextoP.cpp
+	"TextoP.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Window.h"
+
+1558433922 /home/fenix/Escritorio/versionDavid3/include/Window.h
+	"World.h"
+	<SFML/Graphics.hpp>
+
+1558433928 source:/home/fenix/Escritorio/versionDavid3/src/TileMap.cpp
+	"TileMap.h"
+
+1558433924 source:/home/fenix/Escritorio/versionDavid3/src/tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1558433922 source:/home/fenix/Escritorio/versionDavid3/src/Ventana.cpp
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+
+1558433926 source:/home/fenix/Escritorio/versionDavid3/src/World.cpp
+	"World.h"
+	"State.h"
+	<SFML/Graphics.hpp>
+	<Ventana.h>
+	"Window.h"
+	"TextoP.h"
+
+1558468856 source:/home/fenix/Escritorio/versionDavid3/src/Zero.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Zero.h"
+	"Personaje.h"
+	"CargaSprites.h"
+
+1558433930 source:/home/fenix/Escritorio/versionDavid3/src/Ecomb.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	<cstdlib>
+	"Ecomb.h"
+	"CargaSprites.h"
+	"Personaje.h"
+	"AnimaSprites.h"
+	"Ventana.h"
+
+1558445716 source:/home/david/Documentos/xxfinal2/versionDavid3/main.cpp
+	<SFML/Graphics.hpp>
+	"World.h"
+	"Ventana.h"
+	"CargaSprites.h"
+
+1558384318 /home/david/Documentos/xxfinal2/versionDavid3/include/World.h
+	"State.h"
+
+1558384322 /home/david/Documentos/xxfinal2/versionDavid3/include/State.h
+	<SFML/Graphics.hpp>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+
+1558384314 /home/david/Documentos/xxfinal2/versionDavid3/include/Eplat.h
+	"JugadorP.h"
+	"Objeto.h"
+	"Fuente.h"
+	"Npc.h"
+	"LevelFactory.h"
+	<iostream>
+	<vector>
+	<SFML/Graphics.hpp>
+	"TextoP.h"
+	"Agujero.h"
+	"Puerta.h"
+
+1558384330 /home/david/Documentos/xxfinal2/versionDavid3/include/JugadorP.h
+	<SFML/Graphics.hpp>
+
+1558384320 /home/david/Documentos/xxfinal2/versionDavid3/include/Objeto.h
+	<SFML/Graphics.hpp>
+
+1558384332 /home/david/Documentos/xxfinal2/versionDavid3/include/Fuente.h
+	<SFML/Graphics.hpp>
+
+1558384324 /home/david/Documentos/xxfinal2/versionDavid3/include/Npc.h
+	<SFML/Graphics.hpp>
+
+1558384326 /home/david/Documentos/xxfinal2/versionDavid3/include/LevelFactory.h
+	<string>
+	"TileMap.h"
+
+1558384324 /home/david/Documentos/xxfinal2/versionDavid3/include/TileMap.h
+	<SFML/Graphics.hpp>
+
+1558384326 /home/david/Documentos/xxfinal2/versionDavid3/include/TextoP.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558384318 /home/david/Documentos/xxfinal2/versionDavid3/include/Agujero.h
+	<SFML/Graphics.hpp>
+
+1558384310 /home/david/Documentos/xxfinal2/versionDavid3/include/Puerta.h
+	<SFML/Graphics.hpp>
+
+1558384334 /home/david/Documentos/xxfinal2/versionDavid3/include/Menu.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Colorea.h"
+	"Texto.h"
+	"Eplat.h"
+
+1558384334 /home/david/Documentos/xxfinal2/versionDavid3/include/Colorea.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+
+1558384316 /home/david/Documentos/xxfinal2/versionDavid3/include/Texto.h
+	"Colorea.h"
+
+1558444272 /home/david/Documentos/xxfinal2/versionDavid3/include/Ecomb.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	"Eplat.h"
+	"Personaje.h"
+	"Soldado.h"
+	"Mutante.h"
+	"Zero.h"
+
+1558443522 /home/david/Documentos/xxfinal2/versionDavid3/include/Personaje.h
+
+1558384320 /home/david/Documentos/xxfinal2/versionDavid3/include/Soldado.h
+	"Personaje.h"
+
+1558384328 /home/david/Documentos/xxfinal2/versionDavid3/include/Mutante.h
+	"Personaje.h"
+
+1558384310 /home/david/Documentos/xxfinal2/versionDavid3/include/Zero.h
+	"Personaje.h"
+
+1558384312 /home/david/Documentos/xxfinal2/versionDavid3/include/Ventana.h
+	"World.h"
+	"Sonidos.h"
+	"LevelFactory.h"
+	<SFML/Graphics.hpp>
+
+1558460984 /home/david/Documentos/xxfinal2/versionDavid3/include/Sonidos.h
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558384328 /home/david/Documentos/xxfinal2/versionDavid3/include/CargaSprites.h
+	<SFML/Graphics.hpp>
+	<map>
+	<assert.h>
+
+1558384258 source:/home/david/Documentos/xxfinal2/versionDavid3/src/Agujero.cpp
+	"Agujero.h"
+	"Ventana.h"
+	<iostream>
+
+1558384268 source:/home/david/Documentos/xxfinal2/versionDavid3/src/AnimaSprites.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"AnimaSprites.h"
+	"CargaSprites.h"
+
+1558384314 /home/david/Documentos/xxfinal2/versionDavid3/include/AnimaSprites.h
+	<SFML/Graphics.hpp>
+
+1558384272 source:/home/david/Documentos/xxfinal2/versionDavid3/src/CargaSprites.cpp
+	"CargaSprites.h"
+
+1558384258 source:/home/david/Documentos/xxfinal2/versionDavid3/src/Colorea.cpp
+	"Colorea.h"
+
+1558454831 source:/home/david/Documentos/xxfinal2/versionDavid3/src/Ecomb.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	<cstdlib>
+	"Ecomb.h"
+	"CargaSprites.h"
+	"Personaje.h"
+	"AnimaSprites.h"
+	"Ventana.h"
+
+1558461801 source:/home/david/Documentos/xxfinal2/versionDavid3/src/Eplat.cpp
+	"Eplat.h"
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+	"World.h"
+	"Ventana.h"
+	"Objeto.h"
+	"TextoP.h"
+	"Npc.h"
+	"Puerta.h"
+
+1558384256 source:/home/david/Documentos/xxfinal2/versionDavid3/src/JugadorP.cpp
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1558458204 source:/home/david/Documentos/xxfinal2/versionDavid3/src/LevelFactory.cpp
+	"LevelFactory.h"
+	<iostream>
+	<cstring>
+	"TileMap.h"
+	"Ventana.h"
+	"tinyxml2.h"
+
+1558384330 /home/david/Documentos/xxfinal2/versionDavid3/include/tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1558384264 source:/home/david/Documentos/xxfinal2/versionDavid3/src/Menu.cpp
+	"Menu.h"
+	"Ventana.h"
+	"World.h"
+	"State.h"
+	"CargaSprites.h"
+	<string>
+
+1558384272 source:/home/david/Documentos/xxfinal2/versionDavid3/src/Mutante.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mutante.h"
+	"Personaje.h"
+	"CargaSprites.h"
+
+1558384256 source:/home/david/Documentos/xxfinal2/versionDavid3/src/Npc.cpp
+	"Npc.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1558384252 source:/home/david/Documentos/xxfinal2/versionDavid3/src/Objeto.cpp
+	"Objeto.h"
+	<SFML/Graphics.hpp>
+	"Ventana.h"
+	<iostream>
+
+1558452827 source:/home/david/Documentos/xxfinal2/versionDavid3/src/Personaje.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+	"CargaSprites.h"
+	"Ecomb.h"
+	"Colorea.h"
+
+1558384250 source:/home/david/Documentos/xxfinal2/versionDavid3/src/Puerta.cpp
+	"Puerta.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558384254 source:/home/david/Documentos/xxfinal2/versionDavid3/src/Soldado.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Soldado.h"
+	"Personaje.h"
+	"CargaSprites.h"
+
+1558384274 source:/home/david/Documentos/xxfinal2/versionDavid3/src/State.cpp
+	"State.h"
+	<iostream>
+	<string>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+	"Ventana.h"
+
+1558384250 source:/home/david/Documentos/xxfinal2/versionDavid3/src/Texto.cpp
+	"Texto.h"
+
+1558384252 source:/home/david/Documentos/xxfinal2/versionDavid3/src/TextoP.cpp
+	"TextoP.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Window.h"
+
+1558384322 /home/david/Documentos/xxfinal2/versionDavid3/include/Window.h
+	"World.h"
+	<SFML/Graphics.hpp>
+
+1558384270 source:/home/david/Documentos/xxfinal2/versionDavid3/src/TileMap.cpp
+	"TileMap.h"
+
+1558384266 source:/home/david/Documentos/xxfinal2/versionDavid3/src/tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1558384264 source:/home/david/Documentos/xxfinal2/versionDavid3/src/Ventana.cpp
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+
+1558384262 source:/home/david/Documentos/xxfinal2/versionDavid3/src/World.cpp
+	"World.h"
+	"State.h"
+	<SFML/Graphics.hpp>
+	<Ventana.h>
+	"Window.h"
+	"TextoP.h"
+
+1558384272 source:/home/david/Documentos/xxfinal2/versionDavid3/src/Zero.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Zero.h"
+	"Personaje.h"
+	"CargaSprites.h"
+
+1558452757 source:/home/david/Documentos/xxfinal2/versionDavid3/src/Fuente.cpp
+	"Fuente.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558461407 source:/home/david/Documentos/xxfinal2/versionDavid3/src/Sonidos.cpp
+	"Sonidos.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558445716 source:/home/mqb6/Escritorio/versionDavid3/main.cpp
+	<SFML/Graphics.hpp>
+	"World.h"
+	"Ventana.h"
+	"CargaSprites.h"
+
+1558384318 /home/mqb6/Escritorio/versionDavid3/include/World.h
+	"State.h"
+
+1558384322 /home/mqb6/Escritorio/versionDavid3/include/State.h
+	<SFML/Graphics.hpp>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+
+1558384314 /home/mqb6/Escritorio/versionDavid3/include/Eplat.h
+	"JugadorP.h"
+	"Objeto.h"
+	"Fuente.h"
+	"Npc.h"
+	"LevelFactory.h"
+	<iostream>
+	<vector>
+	<SFML/Graphics.hpp>
+	"TextoP.h"
+	"Agujero.h"
+	"Puerta.h"
+
+1558384330 /home/mqb6/Escritorio/versionDavid3/include/JugadorP.h
+	<SFML/Graphics.hpp>
+
+1558384320 /home/mqb6/Escritorio/versionDavid3/include/Objeto.h
+	<SFML/Graphics.hpp>
+
+1558384332 /home/mqb6/Escritorio/versionDavid3/include/Fuente.h
+	<SFML/Graphics.hpp>
+
+1558465482 /home/mqb6/Escritorio/versionDavid3/include/Npc.h
+	<SFML/Graphics.hpp>
+
+1558384326 /home/mqb6/Escritorio/versionDavid3/include/LevelFactory.h
+	<string>
+	"TileMap.h"
+
+1558384324 /home/mqb6/Escritorio/versionDavid3/include/TileMap.h
+	<SFML/Graphics.hpp>
+
+1558384326 /home/mqb6/Escritorio/versionDavid3/include/TextoP.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558384318 /home/mqb6/Escritorio/versionDavid3/include/Agujero.h
+	<SFML/Graphics.hpp>
+
+1558384310 /home/mqb6/Escritorio/versionDavid3/include/Puerta.h
+	<SFML/Graphics.hpp>
+
+1558384334 /home/mqb6/Escritorio/versionDavid3/include/Menu.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Colorea.h"
+	"Texto.h"
+	"Eplat.h"
+
+1558384334 /home/mqb6/Escritorio/versionDavid3/include/Colorea.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+
+1558384316 /home/mqb6/Escritorio/versionDavid3/include/Texto.h
+	"Colorea.h"
+
+1558444272 /home/mqb6/Escritorio/versionDavid3/include/Ecomb.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	"Eplat.h"
+	"Personaje.h"
+	"Soldado.h"
+	"Mutante.h"
+	"Zero.h"
+
+1558443522 /home/mqb6/Escritorio/versionDavid3/include/Personaje.h
+
+1558384320 /home/mqb6/Escritorio/versionDavid3/include/Soldado.h
+	"Personaje.h"
+
+1558384328 /home/mqb6/Escritorio/versionDavid3/include/Mutante.h
+	"Personaje.h"
+
+1558384310 /home/mqb6/Escritorio/versionDavid3/include/Zero.h
+	"Personaje.h"
+
+1558384312 /home/mqb6/Escritorio/versionDavid3/include/Ventana.h
+	"World.h"
+	"Sonidos.h"
+	"LevelFactory.h"
+	<SFML/Graphics.hpp>
+
+1558460984 /home/mqb6/Escritorio/versionDavid3/include/Sonidos.h
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558384328 /home/mqb6/Escritorio/versionDavid3/include/CargaSprites.h
+	<SFML/Graphics.hpp>
+	<map>
+	<assert.h>
+
+1558384258 source:/home/mqb6/Escritorio/versionDavid3/src/Agujero.cpp
+	"Agujero.h"
+	"Ventana.h"
+	<iostream>
+
+1558384268 source:/home/mqb6/Escritorio/versionDavid3/src/AnimaSprites.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"AnimaSprites.h"
+	"CargaSprites.h"
+
+1558384314 /home/mqb6/Escritorio/versionDavid3/include/AnimaSprites.h
+	<SFML/Graphics.hpp>
+
+1558384272 source:/home/mqb6/Escritorio/versionDavid3/src/CargaSprites.cpp
+	"CargaSprites.h"
+
+1558384258 source:/home/mqb6/Escritorio/versionDavid3/src/Colorea.cpp
+	"Colorea.h"
+
+1558454832 source:/home/mqb6/Escritorio/versionDavid3/src/Ecomb.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	<cstdlib>
+	"Ecomb.h"
+	"CargaSprites.h"
+	"Personaje.h"
+	"AnimaSprites.h"
+	"Ventana.h"
+
+1558465916 source:/home/mqb6/Escritorio/versionDavid3/src/Eplat.cpp
+	"Eplat.h"
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+	"World.h"
+	"Ventana.h"
+	"Objeto.h"
+	"TextoP.h"
+	"Npc.h"
+	"Puerta.h"
+
+1558452758 source:/home/mqb6/Escritorio/versionDavid3/src/Fuente.cpp
+	"Fuente.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558384256 source:/home/mqb6/Escritorio/versionDavid3/src/JugadorP.cpp
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1558458204 source:/home/mqb6/Escritorio/versionDavid3/src/LevelFactory.cpp
+	"LevelFactory.h"
+	<iostream>
+	<cstring>
+	"TileMap.h"
+	"Ventana.h"
+	"tinyxml2.h"
+
+1558384330 /home/mqb6/Escritorio/versionDavid3/include/tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1558384264 source:/home/mqb6/Escritorio/versionDavid3/src/Menu.cpp
+	"Menu.h"
+	"Ventana.h"
+	"World.h"
+	"State.h"
+	"CargaSprites.h"
+	<string>
+
+1558384272 source:/home/mqb6/Escritorio/versionDavid3/src/Mutante.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mutante.h"
+	"Personaje.h"
+	"CargaSprites.h"
+
+1558465520 source:/home/mqb6/Escritorio/versionDavid3/src/Npc.cpp
+	"Npc.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1558384252 source:/home/mqb6/Escritorio/versionDavid3/src/Objeto.cpp
+	"Objeto.h"
+	<SFML/Graphics.hpp>
+	"Ventana.h"
+	<iostream>
+
+1558452828 source:/home/mqb6/Escritorio/versionDavid3/src/Personaje.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+	"CargaSprites.h"
+	"Ecomb.h"
+	"Colorea.h"
+
+1558384250 source:/home/mqb6/Escritorio/versionDavid3/src/Puerta.cpp
+	"Puerta.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558384254 source:/home/mqb6/Escritorio/versionDavid3/src/Soldado.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Soldado.h"
+	"Personaje.h"
+	"CargaSprites.h"
+
+1558461408 source:/home/mqb6/Escritorio/versionDavid3/src/Sonidos.cpp
+	"Sonidos.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558384274 source:/home/mqb6/Escritorio/versionDavid3/src/State.cpp
+	"State.h"
+	<iostream>
+	<string>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+	"Ventana.h"
+
+1558384250 source:/home/mqb6/Escritorio/versionDavid3/src/Texto.cpp
+	"Texto.h"
+
+1558384252 source:/home/mqb6/Escritorio/versionDavid3/src/TextoP.cpp
+	"TextoP.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Window.h"
+
+1558384322 /home/mqb6/Escritorio/versionDavid3/include/Window.h
+	"World.h"
+	<SFML/Graphics.hpp>
+
+1558384270 source:/home/mqb6/Escritorio/versionDavid3/src/TileMap.cpp
+	"TileMap.h"
+
+1558384266 source:/home/mqb6/Escritorio/versionDavid3/src/tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1558384264 source:/home/mqb6/Escritorio/versionDavid3/src/Ventana.cpp
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+
+1558384262 source:/home/mqb6/Escritorio/versionDavid3/src/World.cpp
+	"World.h"
+	"State.h"
+	<SFML/Graphics.hpp>
+	<Ventana.h>
+	"Window.h"
+	"TextoP.h"
+
+1558384272 source:/home/mqb6/Escritorio/versionDavid3/src/Zero.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Zero.h"
+	"Personaje.h"
+	"CargaSprites.h"
+
+1558433922 source:/home/martin/Escritorio/versionDavid3/src/Agujero.cpp
+	"Agujero.h"
+	"Ventana.h"
+	<iostream>
+
+1558433920 /home/martin/Escritorio/versionDavid3/include/Agujero.h
+	<SFML/Graphics.hpp>
+
+1558470753 /home/martin/Escritorio/versionDavid3/include/Ventana.h
+	"World.h"
+	"Sonidos.h"
+	"LevelFactory.h"
+	<SFML/Graphics.hpp>
+
+1558433912 /home/martin/Escritorio/versionDavid3/include/World.h
+	"State.h"
+
+1558433916 /home/martin/Escritorio/versionDavid3/include/State.h
+	<SFML/Graphics.hpp>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+
+1558433914 /home/martin/Escritorio/versionDavid3/include/Eplat.h
+	"JugadorP.h"
+	"Objeto.h"
+	"Fuente.h"
+	"Npc.h"
+	"LevelFactory.h"
+	<iostream>
+	<vector>
+	<SFML/Graphics.hpp>
+	"TextoP.h"
+	"Agujero.h"
+	"Puerta.h"
+
+1558433914 /home/martin/Escritorio/versionDavid3/include/JugadorP.h
+	<SFML/Graphics.hpp>
+
+1558433920 /home/martin/Escritorio/versionDavid3/include/Objeto.h
+	<SFML/Graphics.hpp>
+
+1558433918 /home/martin/Escritorio/versionDavid3/include/Fuente.h
+	<SFML/Graphics.hpp>
+
+1558433920 /home/martin/Escritorio/versionDavid3/include/Npc.h
+	<SFML/Graphics.hpp>
+
+1558433916 /home/martin/Escritorio/versionDavid3/include/LevelFactory.h
+	<string>
+	"TileMap.h"
+
+1558433916 /home/martin/Escritorio/versionDavid3/include/TileMap.h
+	<SFML/Graphics.hpp>
+
+1558433914 /home/martin/Escritorio/versionDavid3/include/TextoP.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558433916 /home/martin/Escritorio/versionDavid3/include/Puerta.h
+	<SFML/Graphics.hpp>
+
+1558433914 /home/martin/Escritorio/versionDavid3/include/Menu.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Colorea.h"
+	"Texto.h"
+	"Eplat.h"
+
+1558433920 /home/martin/Escritorio/versionDavid3/include/Colorea.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+
+1558433918 /home/martin/Escritorio/versionDavid3/include/Texto.h
+	"Colorea.h"
+
+1558469346 /home/martin/Escritorio/versionDavid3/include/Ecomb.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	"Eplat.h"
+	"Personaje.h"
+	"Soldado.h"
+	"Mutante.h"
+	"Zero.h"
+
+1558433914 /home/martin/Escritorio/versionDavid3/include/Personaje.h
+
+1558433920 /home/martin/Escritorio/versionDavid3/include/Soldado.h
+	"Personaje.h"
+
+1558433916 /home/martin/Escritorio/versionDavid3/include/Mutante.h
+	"Personaje.h"
+
+1558433920 /home/martin/Escritorio/versionDavid3/include/Zero.h
+	"Personaje.h"
+
+1558433916 /home/martin/Escritorio/versionDavid3/include/Sonidos.h
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558433924 source:/home/martin/Escritorio/versionDavid3/src/AnimaSprites.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"AnimaSprites.h"
+	"CargaSprites.h"
+
+1558433920 /home/martin/Escritorio/versionDavid3/include/AnimaSprites.h
+	<SFML/Graphics.hpp>
+
+1558433916 /home/martin/Escritorio/versionDavid3/include/CargaSprites.h
+	<SFML/Graphics.hpp>
+	<map>
+	<assert.h>
+
+1558433928 source:/home/martin/Escritorio/versionDavid3/src/CargaSprites.cpp
+	"CargaSprites.h"
+
+1558433920 source:/home/martin/Escritorio/versionDavid3/src/Colorea.cpp
+	"Colorea.h"
+
+1558469812 source:/home/martin/Escritorio/versionDavid3/src/Ecomb.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	<cstdlib>
+	"Ecomb.h"
+	"CargaSprites.h"
+	"Personaje.h"
+	"AnimaSprites.h"
+	"Ventana.h"
+
+1558433930 source:/home/martin/Escritorio/versionDavid3/src/Eplat.cpp
+	"Eplat.h"
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+	"World.h"
+	"Ventana.h"
+	"Objeto.h"
+	"TextoP.h"
+	"Npc.h"
+	"Puerta.h"
+
+1558433926 source:/home/martin/Escritorio/versionDavid3/src/Fuente.cpp
+	"Fuente.h"
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558433922 source:/home/martin/Escritorio/versionDavid3/src/JugadorP.cpp
+	"JugadorP.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1558433930 source:/home/martin/Escritorio/versionDavid3/src/LevelFactory.cpp
+	"LevelFactory.h"
+	<iostream>
+	<cstring>
+	"TileMap.h"
+	"Ventana.h"
+	"tinyxml2.h"
+
+1558433916 /home/martin/Escritorio/versionDavid3/include/tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1558433930 source:/home/martin/Escritorio/versionDavid3/src/Menu.cpp
+	"Menu.h"
+	"Ventana.h"
+	"World.h"
+	"State.h"
+	"CargaSprites.h"
+	<string>
+
+1558433926 source:/home/martin/Escritorio/versionDavid3/src/Mutante.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Mutante.h"
+	"Personaje.h"
+	"CargaSprites.h"
+
+1558433928 source:/home/martin/Escritorio/versionDavid3/src/Npc.cpp
+	"Npc.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	"World.h"
+	"Ventana.h"
+
+1558433926 source:/home/martin/Escritorio/versionDavid3/src/Objeto.cpp
+	"Objeto.h"
+	<SFML/Graphics.hpp>
+	"Ventana.h"
+	<iostream>
+
+1558468876 source:/home/martin/Escritorio/versionDavid3/src/Personaje.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Personaje.h"
+	"CargaSprites.h"
+	"Ecomb.h"
+	"Colorea.h"
+
+1558433926 source:/home/martin/Escritorio/versionDavid3/src/Puerta.cpp
+	"Puerta.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558433926 source:/home/martin/Escritorio/versionDavid3/src/Soldado.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Soldado.h"
+	"Personaje.h"
+	"CargaSprites.h"
+
+1558433926 source:/home/martin/Escritorio/versionDavid3/src/Sonidos.cpp
+	"Sonidos.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1558471052 source:/home/martin/Escritorio/versionDavid3/src/State.cpp
+	"State.h"
+	<iostream>
+	<string>
+	"Eplat.h"
+	"Menu.h"
+	"Ecomb.h"
+	"Ventana.h"
+
+1558433922 source:/home/martin/Escritorio/versionDavid3/src/Texto.cpp
+	"Texto.h"
+
+1558433924 source:/home/martin/Escritorio/versionDavid3/src/TextoP.cpp
+	"TextoP.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Window.h"
+
+1558433922 /home/martin/Escritorio/versionDavid3/include/Window.h
+	"World.h"
+	<SFML/Graphics.hpp>
+
+1558433928 source:/home/martin/Escritorio/versionDavid3/src/TileMap.cpp
+	"TileMap.h"
+
+1558433924 source:/home/martin/Escritorio/versionDavid3/src/tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1558433926 source:/home/martin/Escritorio/versionDavid3/src/World.cpp
+	"World.h"
+	"State.h"
+	<SFML/Graphics.hpp>
+	<Ventana.h>
+	"Window.h"
+	"TextoP.h"
+
+1558468856 source:/home/martin/Escritorio/versionDavid3/src/Zero.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Zero.h"
+	"Personaje.h"
+	"CargaSprites.h"
+
+1558470930 source:/home/martin/Escritorio/versionDavid3/main.cpp
+	<SFML/Graphics.hpp>
+	"World.h"
+	"Ventana.h"
+	"CargaSprites.h"
+
+1558471061 source:/home/martin/Escritorio/versionDavid3/src/Ventana.cpp
+	"Ventana.h"
+	<SFML/Graphics.hpp>
+

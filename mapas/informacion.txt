@@ -1,0 +1,22 @@
+Te dejo la info de todo lo que hay, los fondos 1 2 3 y 4 son los hechos a medida de lo que es supuestamente la medida del mapa, luego los 1.1, y 3.3 son los fondos completos a tamaño normal de la foto, por si hay algún problema
+
+hemos hecho las capas de colisiones
+color verde: suelo
+color negro: pared
+color gris claro: muerte
+color blanco: nada
+
+si hay algun problema o neceistas los pngs de los tilesheets dime!! te los paso tambnien por si acaso
+
+
+
+  TMX         TSX          FONDO.PSD
+
+- mapa 1      tilesheet     fondo 1 // fondo 1.1
+- mapa 2      tilesheet     fondo 2
+- mapa 3      tilesheet2    fondo 3 // fondo 3.3
+- mapa 4      tilesheet3    fondo 4 // fondo 3.3
+
+
+
+(el tmx tilemap es el mapa 1 pero de pruebitas, no le hagas caso)
